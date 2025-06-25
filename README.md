@@ -1,4 +1,5 @@
 <!-- Header / Banner -->
+![logo](https://github.com/Acelake123/Acelake123/blob/main/Github_Banner.png)
 <h1 align="center">👋 Hey, I'm <span style="color:#38bdf8">Anurag Aditya</span></h1>
 <p align="center">
 🎓 Final-year B.Tech IT Student <br/>
