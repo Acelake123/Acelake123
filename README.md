@@ -22,9 +22,9 @@ I’m passionate about **cybersecurity**, especially in Blue Team and Security O
 - Linux-based environments
 - Labs and structured learning (TryHackMe)
 
-🎯 In **Smart India Hackathon 2024**, I was selected for the Grand Finale. My team <br/> built a blockchain-based tool to trace the end recipient of cryptocurrency <br/> transactions — a rewarding experience in forensic analysis and secure solution <br/> design.
+🎯 In **Smart India Hackathon 2024**, I was selected for the Grand Finale. My team built a blockchain-based tool to trace the end recipient of cryptocurrency transactions — a rewarding experience in forensic analysis and secure solution design.
 
-🚀 I’m actively seeking **internships** or **entry-level roles** as a SOC Analyst or <br/> Security Analyst where I can contribute to real-world cybersecurity operations.
+🚀 I’m actively seeking **internships** or **entry-level roles** as a SOC Analyst or Security Analyst where I can contribute to real-world cybersecurity operations.
 
 ---
 
