@@ -1,9 +1,9 @@
 <!-- Header / Banner -->
 ![logo](https://github.com/Acelake123/Acelake123/blob/main/Github_Banner.png)
+<!-- 👨‍💻 Profile Banner / Heading -->
 <h1 align="center">👋 Hey, I'm <span style="color:#38bdf8">Anurag Aditya</span></h1>
 <p align="center">
-🎓 Final-year B.Tech IT Student <br/>
-🔐 Entry-Level SOC Analyst | Blue Team | Cybersecurity Enthusiast <br/>
+🎓 B.Tech IT (Final Year) • 🔐 SOC Analyst (Entry-Level) • 🛡️ Blue Team & Threat Monitoring<br/>
 🏆 Smart India Hackathon 2024 Grand Finale Finalist  
 </p>
 
@@ -11,80 +11,127 @@
 
 ## 🧑‍💻 About Me
 
-I’m passionate about **cybersecurity**, especially in Blue Team and Security Operations Center (SOC) environments.
+<img align="right" alt="Cybersecurity" width="380" src="https://www.lambdatest.com/resources/images/news24.gif"/>
 
-🔍 I focus on **incident detection**, **log analysis**, and **real-time threat monitoring** using tools like `Wazuh`, `Wireshark`, and `Nmap`.
+I’m a B.Tech IT student focused on defensive cybersecurity, building core experience in SOC alert monitoring, log analysis, and threat detection.
 
-<img align="right" alt="coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
+### 🧪 SOC Training
 
-🧪 Hands-on experience includes:
-- CTFs & SOC simulations
-- Linux-based environments
-- Labs and structured learning (TryHackMe)
+Gaining hands-on Blue Team skills through TryHackMe labs:
 
-🎯 In **Smart India Hackathon 2024**, I was selected for the Grand Finale. My team built a blockchain-based tool to trace the end recipient of cryptocurrency transactions — a rewarding experience in forensic analysis and secure solution design.
+- Investigating alerts using **Wazuh** & **ELK**  
+- Analyzing **logs** and **PCAPs** for attacker behavior  
+- Practicing **alert triage** and using **MITRE ATT&CK**  
 
-🚀 I’m actively seeking **internships** or **entry-level roles** as a SOC Analyst or Security Analyst where I can contribute to real-world cybersecurity operations.
+🛠️ I use tools like **Wazuh**, **Wireshark**, **Nmap**, and **TryHackMe** to practice core SOC tasks.  
+🐧 I’ve built my technical foundation through work in **Linux-based environments**, **CTFs**, and **SOC simulations** focused on threat detection and response.
+
+🚀 In the **Smart India Hackathon 2024**, I helped develop a **blockchain-based solution** to trace the end recipient of cryptocurrency transactions. The project involved analyzing problems under time constraints and building a working prototype from scratch.
+
+🎯 I’m looking for an **internship** or **entry-level role** as a **SOC Analyst** or **Security Analyst**, where I can apply these skills in live environments and continue improving through real-world practice.
 
 ---
 
 ## 🛠 Tech Stack
 
-### 🧠 Cybersecurity & Blue Team Tools
-![Wazuh](https://img.shields.io/badge/Wazuh-007ACC?style=flat&logo=wazuh&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-004C99?style=flat)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-212121?style=flat&logo=tryhackme&logoColor=red)
-
-### 🔐 Security Concepts
-- Log Analysis & Threat Detection  
-- Packet Inspection & IDS  
-- Vulnerability Scanning  
-- MITRE ATT&CK Framework  
-- SOC Monitoring & Response
-
-### ⚙️ Programming & Scripting
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash&logoColor=white)
-
-### 🌐 Web & Blockchain
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
-
-### 🖥️ Tools & Platforms
-- Linux (Kali, Ubuntu)  
-- Git & GitHub  
-- VS Code, Postman  
-- VirtualBox, VMware  
+### 🧠 Core Blue Team & SOC Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Wazuh-007ACC?style=for-the-badge&logo=wazuh&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nmap-004C99?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MITRE_ATT%26CK-FF5733?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=red"/>
+  <img src="https://img.shields.io/badge/Elastic_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white"/>
+</p>
 
 ---
 
-## 📂 Featured Projects
+### ⚙️ Programming & Scripting
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+</p>
 
-> 🚧 Coming soon — working on portfolio deployment, SOC lab simulations, and security scripts!
+---
+
+### 🔧 Additional Security Tools & Utilities
+<p align="center">
+  <img src="https://img.shields.io/badge/Nuclei-4B0082?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Amass-3b3b3b?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DNSenum-006699?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Google_Dorks-ff0000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ClamAV-008000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/WHOIS-002855?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Netstat-444444?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white"/>
+</p>
+
+---
+
+### 🖥️ Platforms & Environments
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux_Kali-000000?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+</p>
+
+---
+
+## 📂 Featured Projects – Coming Soon
+
+> 🚧 **Under Construction:**  
+> 🔹 Cyber Lab Simulation  
+> 🔹 Threat Log Analyzer using Python  
+> 🔹 Resume & Portfolio Builder with Secure Upload
+
+---
+
+## 🧠 Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Acelake123&theme=react-dark&color=38bdf8&area=true&line=38bdf8&point=ffffff&hide_border=true)
+
+---
+
+## 🏆 GitHub Trophies
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=Acelake123&theme=radical&row=1&column=6)
 
 ---
 
 ## 📫 Let’s Connect
 
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/anurag-aditya-soc" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  
   <a href="mailto:anurag.aditya1281@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  
   <a href="https://yourdomain.tech" target="_blank">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-121212?style=flat&logo=vercel&logoColor=white"/>
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 💡 Quote I Live By
+<h2 align="center">🧠 Blue Team Wisdom</h2>
 
-> *"Security is not a product, but a process." — Bruce Schneier*
+<p align="center">
+  <img src="https://img.shields.io/badge/Monitoring-Asks%20Questions-0f172a?style=for-the-badge&logo=linux&logoColor=38bdf8"/>
+  <img src="https://img.shields.io/badge/Logging-Provides%20Answers-0f172a?style=for-the-badge&logo=linux&logoColor=38bdf8"/>
+</p>
+
+<p align="center">
+  <code><strong>🧾 "Monitoring is about asking the right questions. Logging is about making sure you can answer them."</strong></code>
+</p>
+
+<p align="center"><sub><strong>— Greg Poirier</strong></sub></p>
 
 ---
