@@ -108,9 +108,38 @@ Gaining hands-on Blue Team skills through TryHackMe labs:
 
 ---
 
-## 🏆 GitHub Trophies
+<h2 align="center">🏆 Blue Team Skills Showcase</h2>
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=Acelake123&theme=radical&row=1&column=6)
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://cdn-icons-png.flaticon.com/512/10365/10365509.png" width="64"/>
+      <br><b>SIEM Alerts</b><br>Worked with Wazuh to triage alerts
+    </td>
+    <td align="center">
+      <img src="https://cdn-icons-png.flaticon.com/512/3701/3701212.png" width="64"/>
+      <br><b>Log Analysis</b><br>Parsed logs & PCAPs for threats
+    </td>
+    <td align="center">
+      <img src="https://cdn-icons-png.flaticon.com/512/9746/9746164.png" width="64"/>
+      <br><b>MITRE ATT&CK</b><br>Mapped alerts to attack techniques
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://cdn-icons-png.flaticon.com/512/9846/9846483.png" width="64"/>
+      <br><b>Threat Detection</b><br>TryHackMe SOC Path Labs
+    </td>
+    <td align="center">
+      <img src="https://cdn-icons-png.flaticon.com/512/4346/4346551.png" width="64"/>
+      <br><b>CTF Experience</b><br>Hands-on Blue Team simulations
+    </td>
+    <td align="center">
+      <img src="https://cdn-icons-png.flaticon.com/512/3437/3437361.png" width="64"/>
+      <br><b>Recon & Scanning</b><br>Nmap, Nuclei, Amass, DNSenum
+    </td>
+  </tr>
+</table>
 
 ---
 
