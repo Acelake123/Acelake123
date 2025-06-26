@@ -3,8 +3,8 @@
 <!-- 👨‍💻 Profile Banner / Heading -->
 <h1 align="center">👋 Hey, I'm <span style="color:#38bdf8">Anurag Aditya</span></h1>
 <p align="center">
-🎓 B.Tech IT (Final Year) • 🔐 SOC Analyst (Entry-Level) • 🛡️ Blue Team & Threat Monitoring<br/>
-🏆 Smart India Hackathon 2024 Grand Finale Finalist  
+🎓 B.Tech IT (Final Year) • 🔐 SOC Analyst (Entry-Level) • 🛡️ Blue Team • SOC Operations • Threat Monitoring<br/>
+🏆 Smart India Hackathon 2024 Finalist  
 </p>
 
 ---
@@ -32,52 +32,63 @@ Gaining hands-on Blue Team skills through TryHackMe labs:
 
 ---
 
-## 🛠 Tech Stack
-
 ### 🧠 Core Blue Team & SOC Tools
 <p align="center">
-  <img src="https://img.shields.io/badge/Wazuh-007ACC?style=for-the-badge&logo=wazuh&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nmap-004C99?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MITRE_ATT%26CK-FF5733?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=red"/>
-  <img src="https://img.shields.io/badge/Elastic_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wazuh-SIEM-007ACC?style=for-the-badge&logo=wazuh&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wireshark-Packet%20Sniffer-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nmap-Network%20Scanner-004C99?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Zeek-Network%20Monitor-6e40c9?style=for-the-badge"/><br/>
+  <img src="https://img.shields.io/badge/Suricata-IDS%2FIPS-f44336?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Elastic_Stack-Log%20Analytics-005571?style=for-the-badge&logo=elastic&logoColor=white"/>
 </p>
 
 ---
 
-### ⚙️ Programming & Scripting
+### 🧰 Frameworks & Learning Platforms
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MITRE_ATT%26CK-Framework-FF5733?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/TryHackMe-Cybersecurity%20Labs-000000?style=for-the-badge&logo=tryhackme&logoColor=red"/>
+  <img src="https://img.shields.io/badge/Blue%20Team%20Labs%20Online-Practical%20SOC%20Scenarios-2b6777?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cyber%20Defenders-Incident%20Response%20CTFs-1c1c1c?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Elastic%20SIEM-Lab%20Environment-005571?style=for-the-badge&logo=elastic&logoColor=white"/>
 </p>
 
 ---
 
-### 🔧 Additional Security Tools & Utilities
+### ⚙️ Programming, Scripting & Automation
 <p align="center">
-  <img src="https://img.shields.io/badge/Nuclei-4B0082?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Amass-3b3b3b?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/DNSenum-006699?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Google_Dorks-ff0000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/ClamAV-008000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/WHOIS-002855?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Netstat-444444?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-Automation%20%7C%20Log%20Parsing%20%7C%20SIEM%20Scripts-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-Linux%20Automation%20%7C%20Recon%20Scripts-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerShell-Windows%20Log%20Forensics%20%7C%20IR-012456?style=for-the-badge&logo=powershell&logoColor=white"/>
+  <img src="https://img.shields.io/badge/YAML-Wazuh%20Rules%20%7C%20ELK%20Config-000000?style=for-the-badge&logo=yaml&logoColor=white"/>
 </p>
 
 ---
 
-### 🖥️ Platforms & Environments
+### 🔧 Vulnerability & Information Gathering Tools
 <p align="center">
-  <img src="https://img.shields.io/badge/Linux_Kali-000000?style=for-the-badge&logo=linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nuclei-Vulnerability%20Scanner-4B0082?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Amass-OSINT%20%26%20Subdomain%20Enum-3b3b3b?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DNSenum-DNS%20Recon-006699?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Google_Dorks-Advanced%20Search-ff0000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/WHOIS-Domain%20Intelligence-002855?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ClamAV-Antivirus%20Scanner-008000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Netstat-Network%20Sockets-444444?style=for-the-badge"/>
+</p>
+
+---
+
+### 🖥️ Platforms, Virtual Labs & Developer Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux_Kali-Offensive%20Testing-000000?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ubuntu-Blue%20Team%20Base-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Windows_10-Host%20Investigation-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VirtualBox-VM%20Environment-183A61?style=for-the-badge&logo=virtualbox&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VMware-Virtualization-607078?style=for-the-badge&logo=vmware&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-Version%20Control-181717?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-Code%20Repository-24292F?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-Code%20Editor-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-API%20Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
 ---
