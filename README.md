@@ -95,10 +95,10 @@ Gaining hands-on Blue Team skills through TryHackMe labs:
 
 ##  Featured Projects – Coming Soon
 
->  **Under Construction:**  
->  Cyber Lab Simulation  
->  Threat Log Analyzer using Python  
->  Resume & Portfolio Builder with Secure Upload
+  **Under Construction:**  
+ > Cyber Lab Simulation  
+ > Threat Log Analyzer using Python  
+ > Resume & Portfolio Builder with Secure Upload
 
 ---
 
