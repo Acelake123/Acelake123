@@ -3,19 +3,19 @@
 <!-- Profile Banner / Heading -->
 <h1 align="center"> I'm <span style="color:#38bdf8">Anurag Aditya</span></h1>
 <p align="center">
- B.Tech IT (Final Year) •  SOC Analyst (Entry-Level) •  Blue Team • SOC Operations • Threat Monitoring<br/>
- Smart India Hackathon 2024 Finalist  
+ 🎓 B.Tech IT (Final Year) • 💼 SOC Analyst (Entry-Level) • 🛡️ Blue Team • SOC Operations • Threat Monitoring<br/>
+ 🏆 Smart India Hackathon 2024 Finalist  
 </p>
 
 ---
 
-##  About Me
+##  👨‍💼 About Me
 
 <img align="right" alt="Cybersecurity" width="380" src="https://www.lambdatest.com/resources/images/news24.gif"/>
 
 I’m a B.Tech IT student focused on defensive cybersecurity, building core experience in SOC alert monitoring, log analysis, and threat detection.
 
-###  SOC Training
+###  🛰️ SOC Training
 
 Gaining hands-on Blue Team skills through TryHackMe labs:
 
@@ -23,16 +23,17 @@ Gaining hands-on Blue Team skills through TryHackMe labs:
 - Analyzing **logs** and **PCAPs** for attacker behavior  
 - Practicing **alert triage** and using **MITRE ATT&CK**  
 
- I use tools like **Wazuh**, **Wireshark**, **Nmap**, and **TryHackMe** to practice core SOC tasks.  
- I’ve built my technical foundation through work in **Linux-based environments**, **CTFs**, and **SOC simulations** focused on threat detection and response.
+ 🖥️ I work with tools like Wazuh, Wireshark, and Nmap, alongside hands-on platforms such as TryHackMe, to develop core SOC skills including alert triage, network analysis, and threat detection.  
+ 
+ 🐧 My foundation is built through practical labs in Linux-based environments, CTF exercises, and SOC simulations focused on detecting and investigating potential threats.
 
- In the **Smart India Hackathon 2024**, I helped develop a **blockchain-based solution** to trace the end recipient of cryptocurrency transactions. The project involved analyzing problems under time constraints and building a working prototype from scratch.
+ 🧑‍💻 In the **Smart India Hackathon 2024**, I helped develop a **blockchain-based solution** to trace the end recipient of cryptocurrency transactions. The project involved analyzing problems under time constraints and building a working prototype from scratch.
 
- I’m looking for an **internship** or **entry-level role** as a **SOC Analyst** or **Security Analyst**, where I can apply these skills in live environments and continue improving through real-world practice.
+ 👁️ I’m currently seeking an internship or entry-level opportunity as a SOC Analyst or Security Analyst, where I can contribute to active defense operations and continue developing as a Blue Team professional.
 
 ---
 
-###  Core Blue Team & SOC Tools
+###  🔧 Core Blue Team & SOC Tools
 <p align="center">
   <img src="https://img.shields.io/badge/Wazuh-SIEM-007ACC?style=for-the-badge&logo=wazuh&logoColor=white"/>
   <img src="https://img.shields.io/badge/Wireshark-Packet%20Sniffer-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
@@ -44,7 +45,7 @@ Gaining hands-on Blue Team skills through TryHackMe labs:
 
 ---
 
-###  Frameworks & Learning Platforms
+###  🧩 Frameworks & Learning Platforms
 <p align="center">
   <img src="https://img.shields.io/badge/MITRE_ATT%26CK-Framework-FF5733?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/TryHackMe-Cybersecurity%20Labs-000000?style=for-the-badge&logo=tryhackme&logoColor=red"/>
@@ -55,7 +56,7 @@ Gaining hands-on Blue Team skills through TryHackMe labs:
 
 ---
 
-###  Programming, Scripting & Automation
+###  🧠 Programming, Scripting & Automation
 <p align="center">
   <img src="https://img.shields.io/badge/Python-Automation%20%7C%20Log%20Parsing%20%7C%20SIEM%20Scripts-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bash-Linux%20Automation%20%7C%20Recon%20Scripts-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
@@ -65,7 +66,7 @@ Gaining hands-on Blue Team skills through TryHackMe labs:
 
 ---
 
-###  Vulnerability & Information Gathering Tools
+###  🕵️‍♂️ Vulnerability & Information Gathering Tools
 <p align="center">
   <img src="https://img.shields.io/badge/Nuclei-Vulnerability%20Scanner-4B0082?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Amass-OSINT%20%26%20Subdomain%20Enum-3b3b3b?style=for-the-badge"/>
@@ -78,7 +79,7 @@ Gaining hands-on Blue Team skills through TryHackMe labs:
 
 ---
 
-###  Platforms, Virtual Labs & Developer Tools
+###  🧱 Platforms, Virtual Labs & Developer Tools
 <p align="center">
   <img src="https://img.shields.io/badge/Linux_Kali-Offensive%20Testing-000000?style=for-the-badge&logo=linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ubuntu-Blue%20Team%20Base-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
@@ -93,22 +94,22 @@ Gaining hands-on Blue Team skills through TryHackMe labs:
 
 ---
 
-##  Featured Projects – Coming Soon
+##  📂 Featured Projects – Coming Soon
 
-  **Under Construction:**  
+  🚧 **Under Construction:**  
  > Cyber Lab Simulation  
  > Threat Log Analyzer using Python  
  > Resume & Portfolio Builder with Secure Upload
 
 ---
 
-##  Contribution Graph
+##  📈 Contribution Graph
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Acelake123&theme=react-dark&color=38bdf8&area=true&line=38bdf8&point=ffffff&hide_border=true)
 
 ---
 
-<h2 align="center"> Blue Team Skills Showcase</h2>
+<h2 align="center"> 🚨 Blue Team Skills Showcase</h2>
 
 <table align="center">
   <tr>
@@ -143,7 +144,7 @@ Gaining hands-on Blue Team skills through TryHackMe labs:
 
 ---
 
-##  Let’s Connect
+##  🔗 Let’s Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/anurag-aditya-soc" target="_blank">
@@ -161,7 +162,7 @@ Gaining hands-on Blue Team skills through TryHackMe labs:
 
 ---
 
-<h2 align="center"> Blue Team Wisdom</h2>
+<h2 align="center"> 📘 Blue Team Wisdom</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Monitoring-Asks%20Questions-0f172a?style=for-the-badge&logo=linux&logoColor=38bdf8"/>
@@ -169,7 +170,7 @@ Gaining hands-on Blue Team skills through TryHackMe labs:
 </p>
 
 <p align="center">
-  <code><strong> "Monitoring is about asking the right questions. Logging is about making sure you can answer them."</strong></code>
+  <code><strong> 🧾 "Monitoring is about asking the right questions. Logging is about making sure you can answer them."</strong></code>
 </p>
 
 <p align="center"><sub><strong>— Greg Poirier</strong></sub></p>
