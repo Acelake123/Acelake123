@@ -79,7 +79,7 @@ Gaining hands-on Blue Team skills through TryHackMe labs:
 
 ---
 
-###  🧱 Platforms, Virtual Labs & Developer Tools
+###  🧪 Platforms, Virtual Labs & Developer Tools
 <p align="center">
   <img src="https://img.shields.io/badge/Linux_Kali-Offensive%20Testing-000000?style=for-the-badge&logo=linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ubuntu-Blue%20Team%20Base-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
