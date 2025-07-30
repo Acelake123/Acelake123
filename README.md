@@ -147,15 +147,15 @@ Gaining hands-on Blue Team skills through TryHackMe labs:
 ##  🔗 Let’s Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/anurag-aditya-soc" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  
-  <a href="mailto:anurag.aditya1281@gmail.com">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  
-  <a href="https://yourdomain.tech" target="_blank">
+  <a href="https://www.linkedin.com/in/anurag-aditya-soc" target="_blank">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+  <a href="https://tryhackme.com/p/adityaanurag424" target="_blank">
+  <img alt="TryHackMe" src="https://img.shields.io/badge/TryHackMe-212121?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+</a>
+
+  <a href="https://intelhawk-portfolio.me" target="_blank">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
