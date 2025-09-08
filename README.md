@@ -3,7 +3,7 @@
 <!-- Profile Banner / Heading -->
 <h1 align="center"> I'm <span style="color:#38bdf8">Anurag Aditya</span></h1>
 <p align="center">
- 🎓 B.Tech IT (Final Year) • 💼 SOC Analyst (Entry-Level) • 🛡️ Blue Team • SOC Operations • Threat Monitoring<br/>
+ 🎓 B.Tech IT (Final Year) • 💼 SOC Analyst • 🛡️ Blue Team • SOC Operations • Threat Monitoring<br/>
  🏆 Smart India Hackathon 2024 Finalist  
 </p>
 
