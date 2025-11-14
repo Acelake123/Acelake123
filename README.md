@@ -1,5 +1,5 @@
 <!-- Header / Banner -->
-![logo](https://github.com/Acelake123/Acelake123/blob/main/Github_Banner.png)
+![logo](https://github.com/Acelake123/Acelake123/blob/main/Github_Banner2.png)
 <!-- Profile Banner / Heading -->
 <h1 align="center"> I'm <span style="color:#38bdf8">Anurag Aditya</span></h1>
 <p align="center">
