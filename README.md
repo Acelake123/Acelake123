@@ -233,7 +233,9 @@ display(df_profile.head())
 
 **Let's connect — I'm actively looking for Data Analyst & BI Developer opportunities.**
 
-[![LinkedIn](https://img.shields.io/badge/Reach_Out_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anurag-aditya-soc)
+<a href="#-who-i-am">
+  <img src="https://img.shields.io/badge/↑_Back_to_Top-0f172a?style=for-the-badge&logoColor=00d4ff" alt="Back to Top"/>
+</a>
 
 </div>
 
