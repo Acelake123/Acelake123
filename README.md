@@ -31,7 +31,7 @@ import pandas as pd
 anurag_data = {
     "Name"        : "Anurag Aditya",
     "Education"   : "B.Tech IT (Final Year)",
-    "Target_Role" : ["Data Analyst", "BI Developer"],
+    "Target_Role" : ["Data Analyst"],
     "Skills"      : ["EDA", "SQL", "Power BI", "Data Storytelling"],
     "Milestones"  : ["🏆 NEC '25 (IIT Bombay)", "🏆 SIH '24 (IIT Bhubaneswar)"],
     "Status"      : "🟢 Seeking Internships / Entry-Level Roles",
