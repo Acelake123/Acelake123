@@ -49,7 +49,7 @@ display(df_profile.head())
 
 <div align="center">
 
-| 🚀 **Targeting** | Data Analyst • BI Developer |
+| 🚀 **Targeting** | Data Analyst |
 | :--- | :--- |
 | 📍 **Location** | Remote • Hybrid • Open to Relocation |
 | ⚡ **Status** | **[Available Immediately]** |
