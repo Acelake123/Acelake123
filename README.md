@@ -233,7 +233,7 @@ display(df_profile.head())
 
 **Let's connect — I'm actively looking for Data Analyst & BI Developer opportunities.**
 
-<a href="#-who-i-am">
+<a href="#-Open-to-Work">
   <img src="https://img.shields.io/badge/↑_Back_to_Top-0f172a?style=for-the-badge&logoColor=00d4ff" alt="Back to Top"/>
 </a>
 
