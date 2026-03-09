@@ -1,178 +1,305 @@
-<!-- Header / Banner -->
-![logo](https://github.com/Acelake123/Acelake123/blob/main/Github_Banner2.png)
-<!-- Profile Banner / Heading -->
-<h1 align="center"> I'm <span style="color:#38bdf8">Anurag Aditya</span></h1>
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0ea5e9,100:0d1117&height=220&section=header&text=Anurag%20Aditya&fontSize=72&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Data%20Analyst%20%E2%80%94%20Turning%20Raw%20Data%20Into%20Business%20Impact&descAlignY=60&descAlign=50&descSize=16&descColor=94a3b8" />
+
+</div>
+
+<div align="center">
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=18&pause=1200&color=00D4FF&center=true&vCenter=true&width=700&lines=B.Tech+Information+Technology+%E2%80%94+Final+Year;Data+Analyst+%7C+BI+Developer+%7C+Python+%7C+SQL;NEC+2025+Finalist+%E2%86%92+IIT+Bombay;SIH+2024+Finalist+%E2%86%92+IIT+Bhubaneswar;Data+%E2%86%92+Insights+%E2%86%92+Decisions+%E2%86%92+Impact" />
+</a>
+
+
 <p align="center">
- 🎓 B.Tech IT (Final Year) • 💼 SOC Analyst • 🛡️ Blue Team • SOC Operations • Threat Monitoring<br/>
- 🏆 Smart India Hackathon 2024 Finalist  
+  <a href="https://www.linkedin.com/in/anurag-aditya-soc">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="45" alt="LinkedIn" title="LinkedIn"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://intelhawk-portfolio.me">
+    <img src="https://img.icons8.com/color/48/internet.png" width="45" alt="Portfolio" title="Portfolio"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.novypro.com/profile_about/1770459764895x142560753304924020ull">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="45" alt="Power BI" title="Power BI Dashboards"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Acelake123">
+    <img src="https://img.icons8.com/fluency/48/github.png" width="45" alt="GitHub" title="GitHub"/>
+  </a>
 </p>
 
----
-
-##  👨‍💼 About Me
-
-<img align="right" alt="Cybersecurity" width="380" src="https://www.lambdatest.com/resources/images/news24.gif"/>
-
-I’m a B.Tech IT student focused on defensive cybersecurity, building core experience in SOC alert monitoring, log analysis, and threat detection.
-
-###  🛰️ SOC Training
-
-Gaining hands-on Blue Team skills through TryHackMe labs:
-
-- Investigating alerts using **Wazuh** & **ELK**  
-- Analyzing **logs** and **PCAPs** for attacker behavior  
-- Practicing **alert triage** and using **MITRE ATT&CK**  
-
- 🖥️ I work with tools like Wazuh, Wireshark, and Nmap, alongside hands-on platforms such as TryHackMe, to develop core SOC skills including alert triage, network analysis, and threat detection.  
- 
- 🐧 My foundation is built through practical labs in Linux-based environments, CTF exercises, and SOC simulations focused on detecting and investigating potential threats.
-
- 🧑‍💻 In the **Smart India Hackathon 2024**, I helped develop a **blockchain-based solution** to trace the end recipient of cryptocurrency transactions. The project involved analyzing problems under time constraints and building a working prototype from scratch.
-
- 👁️ I’m currently seeking an internship or entry-level opportunity as a SOC Analyst or Security Analyst, where I can contribute to active defense operations and continue developing as a Blue Team professional.
+</div>
 
 ---
 
-###  🔧 Core Blue Team & SOC Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/Wazuh-SIEM-007ACC?style=for-the-badge&logo=wazuh&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Wireshark-Packet%20Sniffer-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nmap-Network%20Scanner-004C99?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Zeek-Network%20Monitor-6e40c9?style=for-the-badge"/><br/>
-  <img src="https://img.shields.io/badge/Suricata-IDS%2FIPS-f44336?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Elastic_Stack-Log%20Analytics-005571?style=for-the-badge&logo=elastic&logoColor=white"/>
-</p>
+## `</> System.Profile`
+
+```python
+class DataAnalyst:
+    def __init__(self):
+        self.name = "Anurag Aditya"
+        self.education = "B.Tech Information Technology (Final Year)"
+        self.roles = ["Data Analyst", "BI Developer"]
+        
+        self.superpowers = {
+            "Analysis": ["EDA", "Statistical Modeling", "SQL"],
+            "Visualization": ["Power BI", "Tableau", "Data Storytelling"]
+        }
+        
+        self.achievements = [
+            "🏆 NEC 2025 Finalist — IIT Bombay",
+            "🏆 SIH 2024 Finalist — IIT Bhubaneswar"
+        ]
+
+    def get_current_status(self):
+        return "🟢 Open to Internships & Entry-Level DA/BI Roles"
+
+    def execute_workflow(self, data):
+        insights = self.analyze(data)
+        decisions = self.visualize(insights)
+        return "Impact Driven!" # Data → Insights → Decisions → Impact
+
+me = DataAnalyst()
+```
 
 ---
 
-###  🧩 Frameworks & Learning Platforms
-<p align="center">
-  <img src="https://img.shields.io/badge/MITRE_ATT%26CK-Framework-FF5733?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/TryHackMe-Cybersecurity%20Labs-000000?style=for-the-badge&logo=tryhackme&logoColor=red"/>
-  <img src="https://img.shields.io/badge/Blue%20Team%20Labs%20Online-Practical%20SOC%20Scenarios-2b6777?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Cyber%20Defenders-Incident%20Response%20CTFs-1c1c1c?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Elastic%20SIEM-Lab%20Environment-005571?style=for-the-badge&logo=elastic&logoColor=white"/>
-</p>
+## 🏆 National-Level Achievements
+
+<div align="center">
+
+| | Competition | Venue | Highlight |
+|---|---|---|---|
+| 🥇 | **NEC 2025 — National Entrepreneurship Challenge** | IIT Bombay | Top Finalist |
+| 🥈 | **SIH 2024 — Smart India Hackathon** | IIT Bhubaneswar | Blockchain Crypto Tracing |
+
+</div>
 
 ---
 
-###  🧠 Programming, Scripting & Automation
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-Automation%20%7C%20Log%20Parsing%20%7C%20SIEM%20Scripts-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash-Linux%20Automation%20%7C%20Recon%20Scripts-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PowerShell-Windows%20Log%20Forensics%20%7C%20IR-012456?style=for-the-badge&logo=powershell&logoColor=white"/>
-  <img src="https://img.shields.io/badge/YAML-Wazuh%20Rules%20%7C%20ELK%20Config-000000?style=for-the-badge&logo=yaml&logoColor=white"/>
-</p>
+## ⚙️ Analytical Pipeline
+
+```mermaid
+flowchart LR
+    subgraph I ["&nbsp;📥 &nbsp;01 · INGEST&nbsp;"]
+        I1("🔧 Data Wrangling")
+        I2("🚫 Null Handling")
+        I3("📐 Outlier Fix")
+        I4("🐼 Pandas Pipeline")
+    end
+
+    subgraph A ["&nbsp;🧠 &nbsp;02 · ANALYZE&nbsp;"]
+        A1("📈 EDA & Stats")
+        A2("🔍 Trend Mining")
+        A3("🗄️ SQL Queries")
+        A4("🐍 Python Scripts")
+    end
+
+    subgraph V ["&nbsp;📊 &nbsp;03 · VISUALIZE&nbsp;"]
+        V1("⚡ Power BI Dash")
+        V2("📉 Tableau Story")
+        V3("💡 Business Recs")
+        V4("📝 Exec Summaries")
+    end
+
+    subgraph D ["&nbsp;🚀 &nbsp;04 · IMPACT&nbsp;"]
+        D1("🤝 Stakeholders")
+        D2("🎯 Strategy Input")
+        D3("📌 KPI Tracking")
+        D4("✅ Action Insights")
+    end
+
+    I ===>|"clean"| A
+    A ===>|"model"| V
+    V ===>|"present"| D
+
+    style I fill:#0d1b2e,stroke:#38bdf8,stroke-width:2px,color:#e2e8f0
+    style A fill:#0d1b2e,stroke:#a78bfa,stroke-width:2px,color:#e2e8f0
+    style V fill:#0d1b2e,stroke:#34d399,stroke-width:2px,color:#e2e8f0
+    style D fill:#0d1b2e,stroke:#fb923c,stroke-width:2px,color:#e2e8f0
+
+    style I1 fill:#0c2340,stroke:#38bdf8,stroke-width:1px,color:#94d8ff
+    style I2 fill:#0c2340,stroke:#38bdf8,stroke-width:1px,color:#94d8ff
+    style I3 fill:#0c2340,stroke:#38bdf8,stroke-width:1px,color:#94d8ff
+    style I4 fill:#0c2340,stroke:#38bdf8,stroke-width:1px,color:#94d8ff
+
+    style A1 fill:#1e1040,stroke:#a78bfa,stroke-width:1px,color:#c4b5fd
+    style A2 fill:#1e1040,stroke:#a78bfa,stroke-width:1px,color:#c4b5fd
+    style A3 fill:#1e1040,stroke:#a78bfa,stroke-width:1px,color:#c4b5fd
+    style A4 fill:#1e1040,stroke:#a78bfa,stroke-width:1px,color:#c4b5fd
+
+    style V1 fill:#0d2e22,stroke:#34d399,stroke-width:1px,color:#6ee7b7
+    style V2 fill:#0d2e22,stroke:#34d399,stroke-width:1px,color:#6ee7b7
+    style V3 fill:#0d2e22,stroke:#34d399,stroke-width:1px,color:#6ee7b7
+    style V4 fill:#0d2e22,stroke:#34d399,stroke-width:1px,color:#6ee7b7
+
+    style D1 fill:#2e1808,stroke:#fb923c,stroke-width:1px,color:#fdba74
+    style D2 fill:#2e1808,stroke:#fb923c,stroke-width:1px,color:#fdba74
+    style D3 fill:#2e1808,stroke:#fb923c,stroke-width:1px,color:#fdba74
+    style D4 fill:#2e1808,stroke:#fb923c,stroke-width:1px,color:#fdba74
+```
 
 ---
 
-###  🕵️‍♂️ Vulnerability & Information Gathering Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/Nuclei-Vulnerability%20Scanner-4B0082?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Amass-OSINT%20%26%20Subdomain%20Enum-3b3b3b?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/DNSenum-DNS%20Recon-006699?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Google_Dorks-Advanced%20Search-ff0000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/WHOIS-Domain%20Intelligence-002855?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/ClamAV-Antivirus%20Scanner-008000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Netstat-Network%20Sockets-444444?style=for-the-badge"/>
-</p>
+## ⚡ Skill Arsenal
+
+<div align="center">
+
+### Core Stack
+
+| Layer | Tools |
+|-------|-------|
+| **📊 BI & Visualization** | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white) |
+| **🐍 Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) ![VBA](https://img.shields.io/badge/VBA-107C41?style=flat-square&logo=microsoftexcel&logoColor=white) |
+| **📦 Python Libraries** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square) ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square) ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white) |
+| **🗄️ Databases & Query** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![DAX](https://img.shields.io/badge/DAX-0078D4?style=flat-square) ![Power Query](https://img.shields.io/badge/Power_Query-F2C811?style=flat-square) |
+| **🔧 ETL & Workflow** | ![Alteryx](https://img.shields.io/badge/Alteryx-0051B2?style=flat-square) ![KNIME](https://img.shields.io/badge/KNIME-F8D200?style=flat-square&logoColor=black) |
+| **☁️ Cloud & DevOps** | ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
+
+</div>
 
 ---
 
-###  🧪 Platforms, Virtual Labs & Developer Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/Linux_Kali-Offensive%20Testing-000000?style=for-the-badge&logo=linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ubuntu-Blue%20Team%20Base-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Windows_10-Host%20Investigation-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VirtualBox-VM%20Environment-183A61?style=for-the-badge&logo=virtualbox&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VMware-Virtualization-607078?style=for-the-badge&logo=vmware&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-Version%20Control-181717?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-Code%20Repository-24292F?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-Code%20Editor-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-API%20Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-</p>
+## 🏅 Certifications
+
+<div align="center">
+
+<table>
+<tr>
+  <td align="center">
+    <img src="https://images.credly.com/size/340x340/images/fa39f4f0-174a-4886-b821-6a37d42b8b3a/image.png" width="80"/>
+    <br/><b>IBM</b><br/><sub>Professional Data Science</sub>
+  </td>
+  <td align="center">
+    <img src="https://images.credly.com/size/340x340/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png" width="80"/>
+    <br/><b>Google</b><br/><sub>Data Analytics</sub>
+  </td>
+  <td align="center">
+    <img src="https://images.credly.com/size/340x340/images/354e836b-a9be-4a72-b636-56cf6fedb46e/image.png" width="80"/>
+    <br/><b>IBM</b><br/><sub>Applied Data Science · Python</sub>
+  </td>
+  <td align="center">
+    <img src="https://images.credly.com/size/340x340/images/13574e79-6f9e-4b23-890d-4e4f3f2ff2a2/image.png" width="80"/>
+    <br/><b>IBM</b><br/><sub>Data Science for Business</sub>
+  </td>
+</tr>
+<tr>
+  <td align="center">
+    <img src="https://images.credly.com/size/340x340/images/5e6b521f-f4c7-4a8e-8ec2-7aa0df58e0bc/image.png" width="80"/>
+    <br/><b>IBM</b><br/><sub>Data Science Foundations</sub>
+  </td>
+  <td align="center">
+    <img src="https://images.credly.com/size/340x340/images/84ac9eff-b8a2-4683-846b-f59887a73801/image.png" width="80"/>
+    <br/><b>IBM</b><br/><sub>Data Analysis · Python</sub>
+  </td>
+  <td align="center">
+    <img src="https://images.credly.com/size/340x340/images/46defa53-a922-47bd-94b6-ae584f349d45/image.png" width="80"/>
+    <br/><b>IBM</b><br/><sub>Data Science Methodologies</sub>
+  </td>
+  <td align="center">
+    <img src="https://images.credly.com/size/340x340/images/76326afb-199d-4250-a74f-01bc86dda118/image.png" width="80"/>
+    <br/><b>IBM</b><br/><sub>Data Visualization · Python</sub>
+  </td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-##  📂 Featured Projects – Coming Soon
+## 📈 GitHub Activity
 
-  🚧 **Under Construction:**  
- > Cyber Lab Simulation  
- > Threat Log Analyzer using Python  
- > Resume & Portfolio Builder with Secure Upload
+<div align="center">
 
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Acelake123&theme=react-dark&color=00d4ff&area=true&line=00d4ff&point=ffffff&hide_border=true" width="100%"/>
 
-##  📈 Contribution Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Acelake123&theme=react-dark&color=38bdf8&area=true&line=38bdf8&point=ffffff&hide_border=true)
+</div>
 
 ---
 
-<h2 align="center"> 🚨 Blue Team Skills Showcase</h2>
+## 🎯 Current Focus
+
+```mermaid
+flowchart LR
+    A(["🧠 Anurag"]) --> B["📊 Analytics"]
+    A --> C["🤖 ML"]
+    A --> D["☁️ Cloud"]
+    A --> E["🚀 Career"]
+
+    B --> B1["Python EDA"]
+    B --> B2["Power BI Dashboards"]
+    B --> B3["Advanced SQL"]
+
+    C --> C1["Predictive Modeling"]
+    C --> C2["Feature Engineering"]
+
+    D --> D1["Azure Data Services"]
+    D --> D2["Cloud BI Solutions"]
+
+    E --> E1["Data Analyst"]
+    E --> E2["BI Developer"]
+
+    style A fill:#00d4ff,color:#000,stroke:#0ea5e9,stroke-width:2px
+    style B fill:#0f2744,color:#fff,stroke:#00d4ff
+    style C fill:#0f2744,color:#fff,stroke:#00d4ff
+    style D fill:#0f2744,color:#fff,stroke:#00d4ff
+    style E fill:#0f2744,color:#fff,stroke:#ffaa00
+```
+
+---
+
+<h2 align="center"> 📊 Data Analyst Skills Showcase</h2>
 
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://cdn-icons-png.flaticon.com/512/10365/10365509.png" width="64"/>
-      <br><b>SIEM Alerts</b><br>Worked with Wazuh to triage alerts
+      <img src="https://img.icons8.com/color/64/bar-chart.png" width="64" alt="Visualization"/>
+      <br><b>Data Visualization</b><br>Built interactive Power BI dashboards
     </td>
     <td align="center">
-      <img src="https://cdn-icons-png.flaticon.com/512/3701/3701212.png" width="64"/>
-      <br><b>Log Analysis</b><br>Parsed logs & PCAPs for threats
+      <img src="https://img.icons8.com/color/64/line-chart.png" width="64" alt="EDA"/>
+      <br><b>Exploratory Analysis</b><br>Uncovered trends using Python
     </td>
     <td align="center">
-      <img src="https://cdn-icons-png.flaticon.com/512/9746/9746164.png" width="64"/>
-      <br><b>MITRE ATT&CK</b><br>Mapped alerts to attack techniques
+      <img src="https://img.icons8.com/color/64/database.png" width="64" alt="Modeling"/>
+      <br><b>Data Modeling</b><br>Structured relational datasets
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://cdn-icons-png.flaticon.com/512/9846/9846483.png" width="64"/>
-      <br><b>Threat Detection</b><br>TryHackMe SOC Path Labs
+      <img src="https://img.icons8.com/color/64/broom.png" width="64" alt="Cleaning"/>
+      <br><b>Data Cleaning</b><br>Handled nulls & outliers in Pandas
     </td>
     <td align="center">
-      <img src="https://cdn-icons-png.flaticon.com/512/4346/4346551.png" width="64"/>
-      <br><b>CTF Experience</b><br>Hands-on Blue Team simulations
+      <img src="https://img.icons8.com/color/64/business-report.png" width="64" alt="BI"/>
+      <br><b>Business Intelligence</b><br>Delivered actionable insights
     </td>
     <td align="center">
-      <img src="https://cdn-icons-png.flaticon.com/512/3437/3437361.png" width="64"/>
-      <br><b>Recon & Scanning</b><br>Nmap, Nuclei, Amass, DNSenum
+      <img src="https://img.icons8.com/color/64/sql.png" width="64" alt="SQL"/>
+      <br><b>SQL Aggregation</b><br>Wrote complex queries & subqueries
     </td>
   </tr>
 </table>
 
 ---
 
-##  🔗 Let’s Connect
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/anurag-aditya-soc" target="_blank">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+### 💬 Mantra
 
-  <a href="https://tryhackme.com/p/adityaanurag424" target="_blank">
-  <img alt="TryHackMe" src="https://img.shields.io/badge/TryHackMe-212121?style=for-the-badge&logo=tryhackme&logoColor=white"/>
-</a>
+> *"Without data, you're just another person with an opinion."*
+> — **W. Edwards Deming**
 
-  <a href="https://intelhawk-portfolio.me" target="_blank">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-</p>
+<br/>
+
+![Data](https://img.shields.io/badge/Data_%E2%86%92_Insights_%E2%86%92_Decisions_%E2%86%92_Impact-0f172a?style=flat-square&logo=python&logoColor=00d4ff)
+
+<br/>
 
 ---
 
-<h2 align="center"> 📘 Blue Team Wisdom</h2>
+**Let's connect — I'm actively looking for Data Analyst & BI Developer opportunities.**
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Monitoring-Asks%20Questions-0f172a?style=for-the-badge&logo=linux&logoColor=38bdf8"/>
-  <img src="https://img.shields.io/badge/Logging-Provides%20Answers-0f172a?style=for-the-badge&logo=linux&logoColor=38bdf8"/>
-</p>
+[![LinkedIn](https://img.shields.io/badge/Reach_Out_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anurag-aditya-soc)
 
-<p align="center">
-  <code><strong> 🧾 "Monitoring is about asking the right questions. Logging is about making sure you can answer them."</strong></code>
-</p>
+</div>
 
-<p align="center"><sub><strong>— Greg Poirier</strong></sub></p>
-
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0ea5e9,100:0d1117&height=140&section=footer&animation=twinkling"/>
