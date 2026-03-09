@@ -53,7 +53,7 @@ display(df_profile.head())
 | :--- | :--- |
 | 📍 **Location** | Remote • Hybrid • Open to Relocation |
 | ⚡ **Status** | **[Available Immediately]** |
-| 📫 **Connect** | **[Email Me](adityaanurag424@gmail.com)** • **[LinkedIn](https://www.linkedin.com/in/anurag-aditya-DA)** |
+| 📫 **Connect** | <a href="mailto:adityaanurag424@gmail.com"><img src="https://img.icons8.com/fluency/35/gmail-new.png" width="22"/></a> &nbsp;&nbsp; <a href="https://www.linkedin.com/in/anurag-aditya-DA"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="22"/></a> |
 
 </div>
 
