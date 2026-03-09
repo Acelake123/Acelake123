@@ -12,44 +12,35 @@
 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/anurag-aditya-soc" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" title="LinkedIn" width="45"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://intelhawk-portfolio.me" target="_blank"><img src="https://img.icons8.com/color/48/internet.png" alt="Portfolio" title="Portfolio" width="45"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.novypro.com/profile_about/1770459764895x142560753304924020ull" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" title="Power BI Dashboards" width="45"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Acelake123" target="_blank"><img src="https://img.icons8.com/fluency/48/github.png" alt="GitHub" title="GitHub" width="45"/></a>
+  <a href="https://www.linkedin.com/in/anurag-aditya-soc" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" title="LinkedIn" width="35"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://intelhawk-portfolio.me" target="_blank"><img src="https://img.icons8.com/color/48/internet.png" alt="Portfolio" title="Portfolio" width="35"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.novypro.com/profile_about/1770459764895x142560753304924020ull" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" title="Power BI Dashboards" width="35"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Acelake123" target="_blank"><img src="https://img.icons8.com/fluency/48/github.png" alt="GitHub" title="GitHub" width="35"/></a>
 </p>
 
 </div>
 
 ---
 
-## `</> System.Profile`
+## `</> Who I Am`
 
 ```python
-class DataAnalyst:
-    def __init__(self):
-        self.name = "Anurag Aditya"
-        self.education = "B.Tech Information Technology (Final Year)"
-        self.roles = ["Data Analyst", "BI Developer"]
-        
-        self.superpowers = {
-            "Analysis": ["EDA", "Statistical Modeling", "SQL"],
-            "Visualization": ["Power BI", "Tableau", "Data Storytelling"]
-        }
-        
-        self.achievements = [
-            "🏆 NEC 2025 Finalist — IIT Bombay",
-            "🏆 SIH 2024 Finalist — IIT Bhubaneswar"
-        ]
+import pandas as pd
 
-    def get_current_status(self):
-        return "🟢 Open to Internships & Entry-Level DA/BI Roles"
+# Load Analyst Profile
+anurag_data = {
+    "Name"        : "Anurag Aditya",
+    "Education"   : "B.Tech IT (Final Year)",
+    "Target_Role" : ["Data Analyst", "BI Developer"],
+    "Skills"      : ["EDA", "SQL", "Power BI", "Data Storytelling"],
+    "Milestones"  : ["🏆 NEC '25 (IIT Bombay)", "🏆 SIH '24 (IIT Bhubaneswar)"],
+    "Status"      : "🟢 Seeking Internships / Entry-Level Roles",
+    "Mantra"      : "Data → Insights → Decisions → Impact"
+}
 
-    def execute_workflow(self, data):
-        insights = self.analyze(data)
-        decisions = self.visualize(insights)
-        return "Impact Driven!" # Data → Insights → Decisions → Impact
-
-me = DataAnalyst()
+# Convert to actionable insights
+df_profile = pd.DataFrame([anurag_data])
+display(df_profile.head())
 ```
 
 ---
@@ -67,67 +58,37 @@ me = DataAnalyst()
 
 ---
 
-## ⚙️ Analytical Pipeline
 
-```mermaid
-flowchart LR
-    subgraph I ["&nbsp;📥 &nbsp;01 · INGEST&nbsp;"]
-        I1("🔧 Data Wrangling")
-        I2("🚫 Null Handling")
-        I3("📐 Outlier Fix")
-        I4("🐼 Pandas Pipeline")
-    end
+## 💼 What I Bring to the Team
 
-    subgraph A ["&nbsp;🧠 &nbsp;02 · ANALYZE&nbsp;"]
-        A1("📈 EDA & Stats")
-        A2("🔍 Trend Mining")
-        A3("🗄️ SQL Queries")
-        A4("🐍 Python Scripts")
-    end
-
-    subgraph V ["&nbsp;📊 &nbsp;03 · VISUALIZE&nbsp;"]
-        V1("⚡ Power BI Dash")
-        V2("📉 Tableau Story")
-        V3("💡 Business Recs")
-        V4("📝 Exec Summaries")
-    end
-
-    subgraph D ["&nbsp;🚀 &nbsp;04 · IMPACT&nbsp;"]
-        D1("🤝 Stakeholders")
-        D2("🎯 Strategy Input")
-        D3("📌 KPI Tracking")
-        D4("✅ Action Insights")
-    end
-
-    I ===>|"clean"| A
-    A ===>|"model"| V
-    V ===>|"present"| D
-
-    style I fill:#0d1b2e,stroke:#38bdf8,stroke-width:2px,color:#e2e8f0
-    style A fill:#0d1b2e,stroke:#a78bfa,stroke-width:2px,color:#e2e8f0
-    style V fill:#0d1b2e,stroke:#34d399,stroke-width:2px,color:#e2e8f0
-    style D fill:#0d1b2e,stroke:#fb923c,stroke-width:2px,color:#e2e8f0
-
-    style I1 fill:#0c2340,stroke:#38bdf8,stroke-width:1px,color:#94d8ff
-    style I2 fill:#0c2340,stroke:#38bdf8,stroke-width:1px,color:#94d8ff
-    style I3 fill:#0c2340,stroke:#38bdf8,stroke-width:1px,color:#94d8ff
-    style I4 fill:#0c2340,stroke:#38bdf8,stroke-width:1px,color:#94d8ff
-
-    style A1 fill:#1e1040,stroke:#a78bfa,stroke-width:1px,color:#c4b5fd
-    style A2 fill:#1e1040,stroke:#a78bfa,stroke-width:1px,color:#c4b5fd
-    style A3 fill:#1e1040,stroke:#a78bfa,stroke-width:1px,color:#c4b5fd
-    style A4 fill:#1e1040,stroke:#a78bfa,stroke-width:1px,color:#c4b5fd
-
-    style V1 fill:#0d2e22,stroke:#34d399,stroke-width:1px,color:#6ee7b7
-    style V2 fill:#0d2e22,stroke:#34d399,stroke-width:1px,color:#6ee7b7
-    style V3 fill:#0d2e22,stroke:#34d399,stroke-width:1px,color:#6ee7b7
-    style V4 fill:#0d2e22,stroke:#34d399,stroke-width:1px,color:#6ee7b7
-
-    style D1 fill:#2e1808,stroke:#fb923c,stroke-width:1px,color:#fdba74
-    style D2 fill:#2e1808,stroke:#fb923c,stroke-width:1px,color:#fdba74
-    style D3 fill:#2e1808,stroke:#fb923c,stroke-width:1px,color:#fdba74
-    style D4 fill:#2e1808,stroke:#fb923c,stroke-width:1px,color:#fdba74
-```
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://img.icons8.com/fluency/96/combo-chart.png" width="45" alt="Analytics"/><br>
+        <b>Actionable Analytics</b><br>
+        <sub>Building interactive <b>Power BI dashboards</b> that drive real business decisions.</sub>
+      </td>
+      <td align="center" width="50%">
+        <img src="https://img.icons8.com/fluency/96/process.png" width="45" alt="Automation"/><br>
+        <b>Automated Pipelines</b><br>
+        <sub>Replacing manual Excel with robust <b>Python/SQL workflows</b> to save hours.</sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://img.icons8.com/fluency/96/conference-call.png" width="45" alt="Translation"/><br>
+        <b>Stakeholder Translation</b><br>
+        <sub>Bridging the tech gap with clear, <b>non-technical data storytelling</b>.</sub>
+      </td>
+      <td align="center" width="50%">
+        <img src="https://img.icons8.com/fluency/96/trust.png" width="45" alt="Integrity"/><br>
+        <b>Data Integrity</b><br>
+        <sub>Ensuring <b>accuracy and reliability</b> at every step of the pipeline.</sub>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -207,37 +168,6 @@ flowchart LR
 
 ---
 
-## 🎯 Current Focus
-
-```mermaid
-flowchart LR
-    A(["🧠 Anurag"]) --> B["📊 Analytics"]
-    A --> C["🤖 ML"]
-    A --> D["☁️ Cloud"]
-    A --> E["🚀 Career"]
-
-    B --> B1["Python EDA"]
-    B --> B2["Power BI Dashboards"]
-    B --> B3["Advanced SQL"]
-
-    C --> C1["Predictive Modeling"]
-    C --> C2["Feature Engineering"]
-
-    D --> D1["Azure Data Services"]
-    D --> D2["Cloud BI Solutions"]
-
-    E --> E1["Data Analyst"]
-    E --> E2["BI Developer"]
-
-    style A fill:#00d4ff,color:#000,stroke:#0ea5e9,stroke-width:2px
-    style B fill:#0f2744,color:#fff,stroke:#00d4ff
-    style C fill:#0f2744,color:#fff,stroke:#00d4ff
-    style D fill:#0f2744,color:#fff,stroke:#00d4ff
-    style E fill:#0f2744,color:#fff,stroke:#ffaa00
-```
-
----
-
 <h2 align="center"> 📊 Data Analyst Skills Showcase</h2>
 
 <table align="center">
@@ -270,6 +200,21 @@ flowchart LR
     </td>
   </tr>
 </table>
+
+---
+
+<div align="center">
+
+## 🟢 Open to Work
+
+| 🚀 **Targeting** | Data Analyst • BI Developer |
+| :--- | :--- |
+| 📍 **Location** | Remote • Hybrid • Open to Relocation |
+| ⚡ **Status** | **[Available Immediately]** |
+| 📫 **Connect** | **[Email Me](mailto:your.email@gmail.com)** • **[LinkedIn](https://www.linkedin.com/in/anurag-aditya-soc)** |
+
+</div>
+
 
 ---
 
