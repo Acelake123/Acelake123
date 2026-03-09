@@ -45,9 +45,9 @@ display(df_profile.head())
 
 ---
 
-<div align="center">
-
 ## 🟢 Open to Work
+
+<div align="center">
 
 | 🚀 **Targeting** | Data Analyst • BI Developer |
 | :--- | :--- |
