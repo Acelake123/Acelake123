@@ -12,18 +12,10 @@
 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/anurag-aditya-soc">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="45" alt="LinkedIn" title="LinkedIn"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://intelhawk-portfolio.me">
-    <img src="https://img.icons8.com/color/48/internet.png" width="45" alt="Portfolio" title="Portfolio"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.novypro.com/profile_about/1770459764895x142560753304924020ull">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="45" alt="Power BI" title="Power BI Dashboards"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Acelake123">
-    <img src="https://img.icons8.com/fluency/48/github.png" width="45" alt="GitHub" title="GitHub"/>
-  </a>
+  <a href="https://www.linkedin.com/in/anurag-aditya-soc" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="45"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://intelhawk-portfolio.me" target="_blank"><img src="https://img.icons8.com/color/48/internet.png" alt="Portfolio" width="45"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.novypro.com/profile_about/1770459764895x142560753304924020ull" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="45"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Acelake123" target="_blank"><img src="https://img.icons8.com/fluency/48/github.png" alt="GitHub" width="45"/></a>
 </p>
 
 </div>
