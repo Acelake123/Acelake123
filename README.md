@@ -45,6 +45,20 @@ display(df_profile.head())
 
 ---
 
+<div align="center">
+
+## 🟢 Open to Work
+
+| 🚀 **Targeting** | Data Analyst • BI Developer |
+| :--- | :--- |
+| 📍 **Location** | Remote • Hybrid • Open to Relocation |
+| ⚡ **Status** | **[Available Immediately]** |
+| 📫 **Connect** | **[Email Me](adityaanurag424@gmail.com)** • **[LinkedIn](https://www.linkedin.com/in/anurag-aditya-DA)** |
+
+</div>
+
+---
+
 ## 🏆 National-Level Achievements
 
 <div align="center">
@@ -57,7 +71,6 @@ display(df_profile.head())
 </div>
 
 ---
-
 
 ## 💼 What I Bring to the Team
 
@@ -158,16 +171,6 @@ display(df_profile.head())
 
 ---
 
-## 📈 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Acelake123&theme=react-dark&color=00d4ff&area=true&line=00d4ff&point=ffffff&hide_border=true" width="100%"/>
-
-</div>
-
----
-
 <h2 align="center"> 📊 Data Analyst Skills Showcase</h2>
 
 <table align="center">
@@ -203,18 +206,13 @@ display(df_profile.head())
 
 ---
 
+## 📈 GitHub Activity
+
 <div align="center">
 
-## 🟢 Open to Work
-
-| 🚀 **Targeting** | Data Analyst • BI Developer |
-| :--- | :--- |
-| 📍 **Location** | Remote • Hybrid • Open to Relocation |
-| ⚡ **Status** | **[Available Immediately]** |
-| 📫 **Connect** | **[Email Me](mailto:your.email@gmail.com)** • **[LinkedIn](https://www.linkedin.com/in/anurag-aditya-soc)** |
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Acelake123&theme=react-dark&color=00d4ff&area=true&line=00d4ff&point=ffffff&hide_border=true" width="100%"/>
 
 </div>
-
 
 ---
 
