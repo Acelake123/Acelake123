@@ -75,25 +75,25 @@ display(df_profile.head())
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="50%">
-        <img src="https://img.icons8.com/fluency/96/combo-chart.png" width="45" alt="Analytics"/><br>
+      <td align="center" width="40%">
+        <img src="https://img.icons8.com/fluency/96/combo-chart.png" width="40" alt="Analytics"/><br>
         <b>Actionable Analytics</b><br>
         <sub>Building interactive <b>Power BI dashboards</b> that drive real business decisions.</sub>
       </td>
-      <td align="center" width="50%">
-        <img src="https://img.icons8.com/fluency/96/process.png" width="45" alt="Automation"/><br>
+      <td align="center" width="40%">
+        <img src="https://img.icons8.com/fluency/96/process.png" width="40" alt="Automation"/><br>
         <b>Automated Pipelines</b><br>
         <sub>Replacing manual Excel with robust <b>Python/SQL workflows</b> to save hours.</sub>
       </td>
     </tr>
     <tr>
-      <td align="center" width="50%">
-        <img src="https://img.icons8.com/fluency/96/conference-call.png" width="45" alt="Translation"/><br>
+      <td align="center" width="40%">
+        <img src="https://img.icons8.com/fluency/96/conference-call.png" width="40" alt="Translation"/><br>
         <b>Stakeholder Translation</b><br>
         <sub>Bridging the tech gap with clear, <b>non-technical data storytelling</b>.</sub>
       </td>
-      <td align="center" width="50%">
-        <img src="https://img.icons8.com/fluency/96/trust.png" width="45" alt="Integrity"/><br>
+      <td align="center" width="40%">
+        <img src="https://img.icons8.com/fluency/96/trust.png" width="40" alt="Integrity"/><br>
         <b>Data Integrity</b><br>
         <sub>Ensuring <b>accuracy and reliability</b> at every step of the pipeline.</sub>
       </td>
@@ -126,70 +126,95 @@ display(df_profile.head())
 
 <div align="center">
 <table>
+
 <tr>
   <td align="center">
-    <img src="https://cdn.simpleicons.org/datacamp" width="60"/><br/>
+    <img src="https://cdn.simpleicons.org/datacamp" width="45"/><br/>
     <b>DataCamp</b><br/><sub>AI Fundamentals</sub>
   </td>
+
   <td align="center">
-    <img src="https://www.simplilearn.com/ice9/assets/simplilearn_logo.svgz" width="100"/><br/>
+    <img src="https://www.simplilearn.com/ice9/assets/simplilearn_logo.svgz" width="45"/><br/>
     <b>Simplilearn</b><br/><sub>BA Excel</sub>
   </td>
+
   <td align="center">
-    <img src="https://nasscom.in/sites/default/files/NASSCOM_logo.png" width="100"/><br/>
-    <b>NASSCOM</b><br/><sub>Data Analyst 101</sub>
+    <img src="https://www.simplilearn.com/ice9/assets/simplilearn_logo.svgz" width="45"/><br/>
+    <b>Simplilearn</b><br/><sub>Data Analyst 101</sub>
   </td>
+
   <td align="center">
-    <img src="https://nasscom.in/sites/default/files/NASSCOM_logo.png" width="100"/><br/>
-    <b>NASSCOM</b><br/><sub>Data Literacy</sub>
+    <img src="https://cdn.simpleicons.org/datacamp" width="45"/><br/>
+    <b>DataCamp</b><br/><sub>Data Literacy</sub>
   </td>
-</tr>
-<tr>
+
   <td align="center">
-    <img src="https://cdn.simpleicons.org/deloitte" width="60"/><br/>
-    <b>Deloitte · Forage</b><br/><sub>DA Job Simulation</sub>
+    <img src="https://cdn.simpleicons.org/udemy" width="45"/><br/>
+    <b>Udemy</b><br/><sub>PostgreSQL</sub>
   </td>
+
   <td align="center">
-    <img src="https://www.simplilearn.com/ice9/assets/simplilearn_logo.svgz" width="100"/><br/>
-    <b>Simplilearn</b><br/><sub>PostgreSQL</sub>
-  </td>
-  <td align="center">
-    <img src="https://www.simplilearn.com/ice9/assets/simplilearn_logo.svgz" width="100"/><br/>
+    <img src="https://www.simplilearn.com/ice9/assets/simplilearn_logo.svgz" width="45"/><br/>
     <b>Simplilearn</b><br/><sub>Python for Data Analysis</sub>
   </td>
-  <td align="center">
-    <img src="https://cdn.theforage.com/vinternships/companyassets/quantium-logo.png" width="80"/><br/>
-    <b>Quantium · Forage</b><br/><sub>DA Job Simulation</sub>
-  </td>
 </tr>
+
 <tr>
   <td align="center">
-    <img src="https://cdn.simpleicons.org/udemy" width="60"/><br/>
+    <img src="https://cdn.simpleicons.org/udemy" width="45"/><br/>
     <b>Udemy</b><br/><sub>R Programming</sub>
   </td>
+
   <td align="center">
-    <img src="https://nasscom.in/sites/default/files/NASSCOM_logo.png" width="100"/><br/>
+    <img src="https://nasscom.in/sites/default/files/NASSCOM_logo.png" width="45"/><br/>
     <b>NASSCOM</b><br/><sub>Security Analyst</sub>
   </td>
+
   <td align="center">
-    <img src="https://www.simplilearn.com/ice9/assets/simplilearn_logo.svgz" width="100"/><br/>
+    <img src="https://www.simplilearn.com/ice9/assets/simplilearn_logo.svgz" width="45"/><br/>
     <b>Simplilearn</b><br/><sub>SQL Certificate</sub>
   </td>
+
   <td align="center">
-    <img src="https://www.simplilearn.com/ice9/assets/simplilearn_logo.svgz" width="100"/><br/>
+    <img src="https://www.simplilearn.com/ice9/assets/simplilearn_logo.svgz" width="45"/><br/>
     <b>Simplilearn</b><br/><sub>Tableau</sub>
   </td>
-</tr>
-<tr>
-  <td align="center" colspan="2">
-    <img src="https://www.tcs.com/content/dam/tcs/images/home/tcs-logo.png" width="80"/><br/>
+
+  <td align="center">
+    <img src="https://cdn.simpleicons.org/tcs" width="45"/><br/>
     <b>TCSiON</b><br/><sub>Young Professional</sub>
   </td>
-  <td align="center" colspan="2">
-    <img src="https://www.simplilearn.com/ice9/assets/simplilearn_logo.svgz" width="100"/><br/>
+
+  <td align="center">
+    <img src="https://www.simplilearn.com/ice9/assets/simplilearn_logo.svgz" width="45"/><br/>
     <b>Simplilearn</b><br/><sub>VBA</sub>
   </td>
 </tr>
+
+</table>
+</div>
+
+---
+
+## 🧪 Job Simulations
+
+<div align="center">
+<table>
+
+<tr>
+
+<td align="center">
+  <img src="https://cdn.simpleicons.org/deloitte" width="45"/><br/>
+  <b>Deloitte · Forage</b><br/><sub>Data Analytics Job Simulation</sub>
+</td>
+
+<td align="center">
+  <img src="https://cdn.theforage.com/vinternships/companyassets/quantium-logo.png" width="45"/><br/>
+  <b>Quantium · Forage</b><br/><sub>Data Analytics Job Simulation</sub>
+</td>
+
+</tr>
+
 </table>
 </div>
 
@@ -200,29 +225,29 @@ display(df_profile.head())
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://img.icons8.com/color/64/bar-chart.png" width="64" alt="Visualization"/>
+      <img src="https://img.icons8.com/color/64/bar-chart.png" width="45" alt="Visualization"/>
       <br><b>Data Visualization</b><br>Built interactive Power BI dashboards
     </td>
     <td align="center">
-      <img src="https://img.icons8.com/color/64/line-chart.png" width="64" alt="EDA"/>
+      <img src="https://img.icons8.com/color/64/line-chart.png" width="45" alt="EDA"/>
       <br><b>Exploratory Analysis</b><br>Uncovered trends using Python
     </td>
     <td align="center">
-      <img src="https://img.icons8.com/color/64/database.png" width="64" alt="Modeling"/>
+      <img src="https://img.icons8.com/color/64/database.png" width="45" alt="Modeling"/>
       <br><b>Data Modeling</b><br>Structured relational datasets
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://img.icons8.com/color/64/broom.png" width="64" alt="Cleaning"/>
+      <img src="https://img.icons8.com/color/64/broom.png" width="45" alt="Cleaning"/>
       <br><b>Data Cleaning</b><br>Handled nulls & outliers in Pandas
     </td>
     <td align="center">
-      <img src="https://img.icons8.com/color/64/business-report.png" width="64" alt="BI"/>
+      <img src="https://img.icons8.com/color/64/business-report.png" width="45" alt="BI"/>
       <br><b>Business Intelligence</b><br>Delivered actionable insights
     </td>
     <td align="center">
-      <img src="https://img.icons8.com/color/64/sql.png" width="64" alt="SQL"/>
+      <img src="https://img.icons8.com/color/64/sql.png" width="45" alt="SQL"/>
       <br><b>SQL Aggregation</b><br>Wrote complex queries & subqueries
     </td>
   </tr>
