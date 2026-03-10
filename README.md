@@ -125,46 +125,72 @@ display(df_profile.head())
 ## 🏅 Certifications
 
 <div align="center">
-
 <table>
 <tr>
   <td align="center">
-    <img src="https://images.credly.com/size/340x340/images/fa39f4f0-174a-4886-b821-6a37d42b8b3a/image.png" width="80"/>
-    <br/><b>IBM</b><br/><sub>Professional Data Science</sub>
+    <img src="https://cdn.simpleicons.org/datacamp" width="60"/><br/>
+    <b>DataCamp</b><br/><sub>AI Fundamentals</sub>
   </td>
   <td align="center">
-    <img src="https://images.credly.com/size/340x340/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png" width="80"/>
-    <br/><b>Google</b><br/><sub>Data Analytics</sub>
+    <img src="https://www.simplilearn.com/ice9/assets/simplilearn_logo.svgz" width="100"/><br/>
+    <b>Simplilearn</b><br/><sub>BA Excel</sub>
   </td>
   <td align="center">
-    <img src="https://images.credly.com/size/340x340/images/354e836b-a9be-4a72-b636-56cf6fedb46e/image.png" width="80"/>
-    <br/><b>IBM</b><br/><sub>Applied Data Science · Python</sub>
+    <img src="https://nasscom.in/sites/default/files/NASSCOM_logo.png" width="100"/><br/>
+    <b>NASSCOM</b><br/><sub>Data Analyst 101</sub>
   </td>
   <td align="center">
-    <img src="https://images.credly.com/size/340x340/images/13574e79-6f9e-4b23-890d-4e4f3f2ff2a2/image.png" width="80"/>
-    <br/><b>IBM</b><br/><sub>Data Science for Business</sub>
+    <img src="https://nasscom.in/sites/default/files/NASSCOM_logo.png" width="100"/><br/>
+    <b>NASSCOM</b><br/><sub>Data Literacy</sub>
   </td>
 </tr>
 <tr>
   <td align="center">
-    <img src="https://images.credly.com/size/340x340/images/5e6b521f-f4c7-4a8e-8ec2-7aa0df58e0bc/image.png" width="80"/>
-    <br/><b>IBM</b><br/><sub>Data Science Foundations</sub>
+    <img src="https://cdn.simpleicons.org/deloitte" width="60"/><br/>
+    <b>Deloitte · Forage</b><br/><sub>DA Job Simulation</sub>
   </td>
   <td align="center">
-    <img src="https://images.credly.com/size/340x340/images/84ac9eff-b8a2-4683-846b-f59887a73801/image.png" width="80"/>
-    <br/><b>IBM</b><br/><sub>Data Analysis · Python</sub>
+    <img src="https://www.simplilearn.com/ice9/assets/simplilearn_logo.svgz" width="100"/><br/>
+    <b>Simplilearn</b><br/><sub>PostgreSQL</sub>
   </td>
   <td align="center">
-    <img src="https://images.credly.com/size/340x340/images/46defa53-a922-47bd-94b6-ae584f349d45/image.png" width="80"/>
-    <br/><b>IBM</b><br/><sub>Data Science Methodologies</sub>
+    <img src="https://www.simplilearn.com/ice9/assets/simplilearn_logo.svgz" width="100"/><br/>
+    <b>Simplilearn</b><br/><sub>Python for Data Analysis</sub>
   </td>
   <td align="center">
-    <img src="https://images.credly.com/size/340x340/images/76326afb-199d-4250-a74f-01bc86dda118/image.png" width="80"/>
-    <br/><b>IBM</b><br/><sub>Data Visualization · Python</sub>
+    <img src="https://cdn.theforage.com/vinternships/companyassets/quantium-logo.png" width="80"/><br/>
+    <b>Quantium · Forage</b><br/><sub>DA Job Simulation</sub>
+  </td>
+</tr>
+<tr>
+  <td align="center">
+    <img src="https://cdn.simpleicons.org/udemy" width="60"/><br/>
+    <b>Udemy</b><br/><sub>R Programming</sub>
+  </td>
+  <td align="center">
+    <img src="https://nasscom.in/sites/default/files/NASSCOM_logo.png" width="100"/><br/>
+    <b>NASSCOM</b><br/><sub>Security Analyst</sub>
+  </td>
+  <td align="center">
+    <img src="https://www.simplilearn.com/ice9/assets/simplilearn_logo.svgz" width="100"/><br/>
+    <b>Simplilearn</b><br/><sub>SQL Certificate</sub>
+  </td>
+  <td align="center">
+    <img src="https://www.simplilearn.com/ice9/assets/simplilearn_logo.svgz" width="100"/><br/>
+    <b>Simplilearn</b><br/><sub>Tableau</sub>
+  </td>
+</tr>
+<tr>
+  <td align="center" colspan="2">
+    <img src="https://www.tcs.com/content/dam/tcs/images/home/tcs-logo.png" width="80"/><br/>
+    <b>TCSiON</b><br/><sub>Young Professional</sub>
+  </td>
+  <td align="center" colspan="2">
+    <img src="https://www.simplilearn.com/ice9/assets/simplilearn_logo.svgz" width="100"/><br/>
+    <b>Simplilearn</b><br/><sub>VBA</sub>
   </td>
 </tr>
 </table>
-
 </div>
 
 ---
