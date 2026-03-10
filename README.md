@@ -199,17 +199,19 @@ display(df_profile.head())
 ## 🧪 Job Simulations
 
 <div align="center">
-<table>
+<table width="100%">
 
 <tr>
 
-<td align="center">
-  <img src="https://cdn.simpleicons.org/deloitte" width="45"/><br/>
+<td align="center" width="50%">
+  <br>
+  <img src="https://www.google.com/s2/favicons?domain=deloitte.com&sz=128" width="45" style="border-radius: 5px;"/><br/><br/>
   <b>Deloitte · Forage</b><br/><sub>Data Analytics Job Simulation</sub>
 </td>
 
-<td align="center">
-  <img src="https://cdn.theforage.com/vinternships/companyassets/quantium-logo.png" width="45"/><br/>
+<td align="center" width="50%">
+  <br>
+  <img src="https://icons.duckduckgo.com/ip3/quantium.com.ico" width="45" style="border-radius: 5px;"/><<br/><br/>
   <b>Quantium · Forage</b><br/><sub>Data Analytics Job Simulation</sub>
 </td>
 
