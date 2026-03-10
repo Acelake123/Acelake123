@@ -220,7 +220,7 @@ display(df_profile.head())
 
 ---
 
-<h2 align="center"> 📊 Data Analyst Skills Showcase</h2>
+## 📊 Data Analyst Skills Showcase
 
 <table align="center">
   <tr>
