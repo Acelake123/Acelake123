@@ -1,6 +1,10 @@
+<p align="center">
+  <img src="PASTE_YOUR_BANNER_URL_HERE" alt="Anurag Aditya Banner" width="100%">
+</p>
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0ea5e9,100:0d1117&height=220&section=header&text=Anurag%20Aditya&fontSize=72&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Data%20Analyst%20%E2%80%94%20Turning%20Raw%20Data%20Into%20Business%20Impact&descAlignY=60&descAlign=50&descSize=16&descColor=94a3b8" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0ea5e9,100:0d1117&height=140&section=header&animation=twinkling"/>
 
 </div>
 
