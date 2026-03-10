@@ -1,13 +1,6 @@
-<p align="center">
-  <img src="PASTE_YOUR_BANNER_URL_HERE" alt="Anurag Aditya Banner" width="100%">
-</p>
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0ea5e9,100:0d1117&height=140&section=header&animation=twinkling"/>
-
-</div>
-
+<img src="https://github.com/Acelake123/Acelake123/blob/43e250357a4e7bfd8e77bea479d3c37a36da0177/Github_Banner.png" alt="Anurag Aditya Banner" width="100%">
+  
+<br>
 <div align="center">
 
 <a href="https://git.io/typing-svg">
@@ -16,7 +9,7 @@
 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/anurag-aditya-soc" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" title="LinkedIn" width="35"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/anurag-aditya-da57" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" title="LinkedIn" width="35"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://intelhawk-portfolio.me" target="_blank"><img src="https://img.icons8.com/color/48/internet.png" alt="Portfolio" title="Portfolio" width="35"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.novypro.com/profile_about/1770459764895x142560753304924020ull" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" title="Power BI Dashboards" width="35"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Acelake123" target="_blank"><img src="https://img.icons8.com/fluency/48/github.png" alt="GitHub" title="GitHub" width="35"/></a>
@@ -237,10 +230,10 @@ display(df_profile.head())
 
 **Let's connect — I'm actively looking for Data Analyst & BI Developer opportunities.**
 
-<a href="#-Open-to-Work">
+<a href="https://github.com/Acelake123/Acelake123/edit/main/README.md#-open-to-work">
   <img src="https://img.shields.io/badge/↑_Back_to_Top-0f172a?style=for-the-badge&logoColor=00d4ff" alt="Back to Top"/>
 </a>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0ea5e9,100:0d1117&height=140&section=footer&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:2F3E4D,100:0d1117&height=100&section=footer" width="100%"/>
