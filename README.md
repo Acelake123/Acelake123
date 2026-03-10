@@ -1,6 +1,5 @@
 <img src="https://github.com/Acelake123/Acelake123/blob/43e250357a4e7bfd8e77bea479d3c37a36da0177/Github_Banner.png" alt="Anurag Aditya Banner" width="100%">
   
-<br>
 <div align="center">
 
 <a href="https://git.io/typing-svg">
