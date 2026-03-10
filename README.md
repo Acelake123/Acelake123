@@ -5,7 +5,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=18&pause=1200&color=00D4FF&center=true&vCenter=true&width=700&lines=B.Tech+Information+Technology+%E2%80%94+Final+Year;Data+Analyst+%7C+BI+Developer+%7C+Python+%7C+SQL;NEC+2025+Finalist+%E2%86%92+IIT+Bombay;SIH+2024+Finalist+%E2%86%92+IIT+Bhubaneswar;Data+%E2%86%92+Insights+%E2%86%92+Decisions+%E2%86%92+Impact" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=18&pause=1200&color=00D4FF&center=true&vCenter=true&width=700&lines=B.Tech+Information+Technology+%E2%80%94+Final+Year;Data+Analyst+%7C+Python+%7C+SQL;NEC+2025+Finalist+%E2%86%92+IIT+Bombay;SIH+2024+Finalist+%E2%86%92+IIT+Bhubaneswar;Data+%E2%86%92+Insights+%E2%86%92+Decisions+%E2%86%92+Impact" />
 </a>
 
 
