@@ -145,7 +145,7 @@ display(df_profile.head())
 
   <td align="center">
     <img src="https://cdn.simpleicons.org/datacamp" width="45"/><br/>
-    <b>DataCamp</b><br/><sub>Data Literacy</sub>
+    <b>DataCamp</b><br/><sub>Data Analyst Associate</sub>
   </td>
 
   <td align="center">
