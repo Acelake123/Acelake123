@@ -134,12 +134,12 @@ display(df_profile.head())
   </td>
 
   <td align="center">
-    <img src="https://www.simplilearn.com/ice9/assets/simplilearn_logo.svgz" width="45"/><br/>
+    <img src="https://github.com/Acelake123/Acelake123/blob/00b257a0b93a62954612ed07e5fccbede6b99eb9/Simplilearn_logo.jpeg" width="45"/><br/>
     <b>Simplilearn</b><br/><sub>BA Excel</sub>
   </td>
 
   <td align="center">
-    <img src="https://www.simplilearn.com/ice9/assets/simplilearn_logo.svgz" width="45"/><br/>
+    <img src="https://github.com/Acelake123/Acelake123/blob/00b257a0b93a62954612ed07e5fccbede6b99eb9/Simplilearn_logo.jpeg" width="45"/><br/>
     <b>Simplilearn</b><br/><sub>Data Analyst 101</sub>
   </td>
 
@@ -154,7 +154,7 @@ display(df_profile.head())
   </td>
 
   <td align="center">
-    <img src="https://www.simplilearn.com/ice9/assets/simplilearn_logo.svgz" width="45"/><br/>
+    <img src="https://github.com/Acelake123/Acelake123/blob/00b257a0b93a62954612ed07e5fccbede6b99eb9/Simplilearn_logo.jpeg" width="45"/><br/>
     <b>Simplilearn</b><br/><sub>Python for Data Analysis</sub>
   </td>
 </tr>
@@ -166,17 +166,17 @@ display(df_profile.head())
   </td>
 
   <td align="center">
-    <img src="https://nasscom.in/sites/default/files/NASSCOM_logo.png" width="45"/><br/>
+    <img src="https://github.com/Acelake123/Acelake123/blob/00b257a0b93a62954612ed07e5fccbede6b99eb9/nasscom.jpeg" width="45"/><br/>
     <b>NASSCOM</b><br/><sub>Security Analyst</sub>
   </td>
 
   <td align="center">
-    <img src="https://www.simplilearn.com/ice9/assets/simplilearn_logo.svgz" width="45"/><br/>
+    <img src="https://github.com/Acelake123/Acelake123/blob/00b257a0b93a62954612ed07e5fccbede6b99eb9/Simplilearn_logo.jpeg" width="45"/><br/>
     <b>Simplilearn</b><br/><sub>SQL Certificate</sub>
   </td>
 
   <td align="center">
-    <img src="https://www.simplilearn.com/ice9/assets/simplilearn_logo.svgz" width="45"/><br/>
+    <img src="https://github.com/Acelake123/Acelake123/blob/00b257a0b93a62954612ed07e5fccbede6b99eb9/Simplilearn_logo.jpeg" width="45"/><br/>
     <b>Simplilearn</b><br/><sub>Tableau</sub>
   </td>
 
@@ -186,7 +186,7 @@ display(df_profile.head())
   </td>
 
   <td align="center">
-    <img src="https://www.simplilearn.com/ice9/assets/simplilearn_logo.svgz" width="45"/><br/>
+    <img src="https://github.com/Acelake123/Acelake123/blob/00b257a0b93a62954612ed07e5fccbede6b99eb9/Simplilearn_logo.jpeg" width="45"/><br/>
     <b>Simplilearn</b><br/><sub>VBA</sub>
   </td>
 </tr>
