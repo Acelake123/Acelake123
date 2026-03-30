@@ -45,7 +45,7 @@ display(df_profile.head())
 
 ## 🟢 Open to Work
 
-<div align="center">
+<div align="left">
 
 | 🚀 **Targeting** | Data Analyst |
 | :--- | :--- |
@@ -59,7 +59,7 @@ display(df_profile.head())
 
 ## 🏆 National-Level Achievements
 
-<div align="center">
+<div align="left">
 
 | | Competition | Venue | Highlight |
 |---|---|---|---|
@@ -72,7 +72,7 @@ display(df_profile.head())
 
 ## 💼 What I Bring to the Team
 
-<div align="center">
+<div align="left">
   <table>
     <tr>
       <td align="center" width="40%">
@@ -105,7 +105,7 @@ display(df_profile.head())
 
 ## ⚡ Skill Arsenal
 
-<div align="center">
+<div align="left">
 
 ### Core Stack
 
@@ -124,7 +124,7 @@ display(df_profile.head())
 
 ## 🏅 Certifications
 
-<div align="center">
+<div align="left">
 <table>
 
 <tr>
@@ -198,7 +198,7 @@ display(df_profile.head())
 
 ## 🧪 Job Simulations
 
-<div align="center">
+<div align="left">
 <table width="100%">
 
 <tr>
@@ -224,7 +224,7 @@ display(df_profile.head())
 
 ## 📊 Data Analyst Skills Showcase
 
-<table align="center">
+<table align="left">
   <tr>
     <td align="center">
       <img src="https://img.icons8.com/color/64/bar-chart.png" width="45" alt="Visualization"/>
@@ -254,6 +254,7 @@ display(df_profile.head())
     </td>
   </tr>
 </table>
+<br clear="all">
 
 ---
 
