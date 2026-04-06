@@ -32,7 +32,7 @@ anurag_data = {
     "Target_Role" : ["Data Analyst | Business Intelligence & Strategy"],
     "Skills"      : ["EDA", "SQL", "Power BI", "Data Storytelling"],
     "Milestones"  : ["🏆 NEC '25 (IIT Bombay)", "🏆 SIH '24 (IIT Bhubaneswar)"],
-    "Status"      : "🟢 Seeking Internships / Entry-Level Roles",
+    "Status"      : "🟢 Seeking Internships / Job",
     "Mantra"      : "Data → Insights → Decisions → Impact"
 }
 
