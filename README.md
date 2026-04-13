@@ -18,6 +18,13 @@
 
 </div>
 
+<div align="center">
+
+[![Open to Work](https://img.shields.io/badge/🟢%20OPEN%20TO%20WORK-Available%20Immediately-00c853?style=for-the-badge&labelColor=0d1117)](https://www.linkedin.com/in/anurag-aditya-da57)&nbsp;&nbsp;
+[![Location](https://img.shields.io/badge/📍%20LOCATION-Remote%20•%20Hybrid%20•%20Relocation-0051B2?style=for-the-badge&labelColor=0d1117)](https://www.linkedin.com/in/anurag-aditya-da57)
+
+</div>
+
 ---
 
 ## `</> Who I Am`
@@ -51,7 +58,7 @@ display(df_profile.head())
 | :--- | :--- |
 | 📍 **Location** | Remote • Hybrid • Open to Relocation |
 | ⚡ **Status** | **[Available Immediately]** |
-| 📫 **Connect** | <a href="mailto:adityaanurag424@gmail.com"><img src="https://img.icons8.com/fluency/35/gmail-new.png" width="22"/></a> &nbsp;&nbsp; <a href="https://www.linkedin.com/in/anurag-aditya-da57"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="22"/></a> |
+| 📫 **Connect** | <a href="mailto:adityaanurag424@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="28" style="vertical-align:middle"/>&nbsp;<img src="https://img.shields.io/badge/-adityaanurag424%40gmail.com-EA4335?style=for-the-badge&logoColor=white" height="28" style="vertical-align:middle"/></a> &nbsp;&nbsp; <a href="https://www.linkedin.com/in/anurag-aditya-da57"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="28" style="vertical-align:middle"/>&nbsp;<img src="https://img.shields.io/badge/-Anurag%20Aditya-0A66C2?style=for-the-badge&logoColor=white" height="28" style="vertical-align:middle"/></a> |
 
 </div>
 
@@ -161,8 +168,8 @@ display(df_profile.head())
 
 <tr>
   <td align="center">
-    <img src="https://cdn.simpleicons.org/udemy" width="45"/><br/>
-    <b>Udemy</b><br/><sub>R Programming</sub>
+    <img src="https://images.credly.com/size/340x340/images/14744318-8d6a-49c3-971d-6a4a0f524925/Alteryx_Core.png" width="65"/><br/>
+    <b>Alteryx</b><br/><sub>Designer Core</sub>
   </td>
 
   <td align="center">
@@ -211,7 +218,7 @@ display(df_profile.head())
 
 <td align="center" width="50%">
   <br>
-  <img src="https://icons.duckduckgo.com/ip3/quantium.com.ico" width="45" style="border-radius: 5px;"/><<br/><br/>
+  <img src="https://icons.duckduckgo.com/ip3/quantium.com.ico" width="45" style="border-radius: 5px;"/><br/><br/>
   <b>Quantium · Forage</b><br/><sub>Data Analytics Job Simulation</sub>
 </td>
 
