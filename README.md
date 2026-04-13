@@ -87,7 +87,7 @@ display(df_profile.head())
 
 ### 📊 Skills at a Glance
 
-<img src="https://quickchart.io/chart?bkg=transparent&w=500&h=300&c={type:'horizontalBar',data:{labels:['Power%20BI','Excel/VBA','SQL','Python','Pandas','Tableau','PostgreSQL','Alteryx'],datasets:[{data:[90,85,85,82,80,78,75,72],backgroundColor:['%23F2C811','%23217346','%234479A1','%233776AB','%23150458','%23E97627','%234169E1','%230051B2'],borderWidth:0}]},options:{legend:{display:false},scales:{xAxes:[{ticks:{min:0,max:100,fontColor:'%23888888'},gridLines:{color:'rgba(200,200,200,0.1)'}}],yAxes:[{ticks:{fontColor:'%23888888'},gridLines:{display:false}}]}}}" alt="Tool Proficiency" width="54%"/>  <img src="https://quickchart.io/chart?bkg=transparent&w=300&h=300&c={type:'doughnut',data:{labels:['BI%20%26%20Viz','Programming','Databases','ETL','Cloud'],datasets:[{data:[30,25,20,15,10],backgroundColor:['%23F2C811','%233776AB','%234479A1','%230051B2','%230078D4'],borderWidth:0}]},options:{cutoutPercentage:65,legend:{position:'bottom',labels:{fontColor:'%23888888',fontSize:11}}}}" alt="Skill Distribution" width="36%"/>
+<img src="https://quickchart.io/chart?bkg=transparent&w=500&h=300&c={type:'horizontalBar',data:{labels:['Power%20BI','Excel/VBA','SQL','Python','Pandas','Tableau','PostgreSQL','Alteryx'],datasets:[{data:[90,85,85,82,80,78,75,72],backgroundColor:['%23F2C811','%23217346','%234479A1','%233776AB','%23150458','%23E97627','%234169E1','%230051B2'],borderWidth:0}]},options:{legend:{display:false},scales:{xAxes:[{ticks:{min:0,max:100,fontColor:'%23ffffff'},gridLines:{color:'rgba(255,255,255,0.08)'}}],yAxes:[{ticks:{fontColor:'%23ffffff'},gridLines:{display:false}}]}}}" alt="Tool Proficiency" width="54%"/>  <img src="https://quickchart.io/chart?bkg=transparent&w=300&h=300&c={type:'doughnut',data:{labels:['BI%20%26%20Viz','Programming','Databases','ETL','Cloud'],datasets:[{data:[30,25,20,15,10],backgroundColor:['%23F2C811','%233776AB','%234479A1','%230051B2','%230078D4'],borderWidth:0}]},options:{cutoutPercentage:65,legend:{position:'bottom',labels:{fontColor:'%23ffffff',fontSize:11}},plugins:{datalabels:{color:'%23ffffff',fontSize:12}}}}" alt="Skill Distribution" width="36%"/>
 
 </div>
 
@@ -95,13 +95,9 @@ display(df_profile.head())
 
 <div align="left">
 
-### 🔄 Data Workflow
+### 🔄 Data Workflow Pipeline
 
-| 📥 Ingest | ➡️ | 🧹 Clean | ➡️ | 🔍 Analyze | ➡️ | 📊 Visualize | ➡️ | 💡 Decide |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| SQL · Python | | Pandas · Power Query | | EDA · Seaborn | | Power BI · Tableau | | Insights · Impact |
-
-</div>
+<img src="" alt="Data Workflow Pipeline" width="100%">
 
 ---
 
