@@ -134,7 +134,7 @@ display(df_profile.head())
 <table>
 <tr>
   <td align="center">
-    <img src="https://images.credly.com/size/340x340/images/14744318-8d6a-49c3-971d-6a4a0f524925/Alteryx_Core.png" width="65"/><br/>
+    <img src="https://github.com/Acelake123/Acelake123/blob/26f78c0827a7de27dda94ef4fbe18ce6212db7f6/alteryx-designer-core-certification.png" width="65"/><br/>
     <b>Alteryx</b><br/><sub>Designer Core</sub>
   </td>
   <td align="center">
