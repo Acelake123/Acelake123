@@ -1,6 +1,6 @@
 <a name="top"></a>
 
-<img src="https://github.com/Acelake123/Acelake123/blob/43e250357a4e7bfd8e77bea479d3c37a36da0177/Github_Banner.png" alt="Anurag Aditya Banner" width="100%">
+<img src="https://github.com/Acelake123/Acelake123/blob/4a41851812e8bac5490f7fd6e8297eb4b83c03e7/Github_Banner.png" alt="Anurag Aditya Banner" width="100%">
   
 <div align="center">
 
