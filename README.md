@@ -5,7 +5,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=18&pause=1200&color=00D4FF&center=true&vCenter=true&width=700&lines=B.Tech+Information+Technology+%E2%80%94+Final+Year;Data+Analyst+%7C+Business+intelligence+%26+Strategy;Data+Analyst+%7C+Python+%7C+SQL;NEC+2025+Finalist+%E2%86%92+IIT+Bombay;SIH+2024+Finalist+%E2%86%92+IIT+Bhubaneswar;Data+%E2%86%92+Insights+%E2%86%92+Decisions+%E2%86%92+Impact" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=18&pause=1200&color=00D4FF&center=true&vCenter=true&width=700&lines=B.Tech+Information+Technology+%E2%80%94+Final+Year;Data+Analyst+%7C+BI+%26+Strategy;Python+%7C+SQL+%7C+Power+BI+%7C+Tableau;EDA+%7C+Data+Storytelling+%7C+Dashboards;Alteryx+Designer+Core+Certified;NEC+2025+Finalist+%E2%86%92+IIT+Bombay;SIH+2024+Finalist+%E2%86%92+IIT+Bhubaneswar;Data+%E2%86%92+Insights+%E2%86%92+Decisions+%E2%86%92+Impact" />
 </a>
 
 
@@ -54,11 +54,14 @@ display(df_profile.head())
 
 <div align="left">
 
-| 🚀 **Targeting** | Data Analyst |
+| 🚀 **Targeting** | Data Analyst • BI Developer • Business Intelligence & Strategy |
 | :--- | :--- |
+| 🛠️ **Core Skills** | Python • SQL • Power BI • Tableau • Alteryx • Excel |
 | 📍 **Location** | Remote • Hybrid • Open to Relocation |
+| 🎓 **Education** | B.Tech Information Technology — Final Year |
+| 🏆 **Achievements** | NEC 2025 Finalist (IIT Bombay) • SIH 2024 Finalist (IIT Bhubaneswar) |
 | ⚡ **Status** | **[Available Immediately]** |
-| 📫 **Connect** | <a href="mailto:adityaanurag424@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="28" style="vertical-align:middle"/>&nbsp;<img src="https://img.shields.io/badge/-adityaanurag424%40gmail.com-EA4335?style=for-the-badge&logoColor=white" height="28" style="vertical-align:middle"/></a> &nbsp;&nbsp; <a href="https://www.linkedin.com/in/anurag-aditya-da57"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="28" style="vertical-align:middle"/>&nbsp;<img src="https://img.shields.io/badge/-Anurag%20Aditya-0A66C2?style=for-the-badge&logoColor=white" height="28" style="vertical-align:middle"/></a> |
+| 📫 **Connect** | <a href="mailto:adityaanurag424@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="28" style="vertical-align:middle"/></a>&nbsp;<a href="mailto:adityaanurag424@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logoColor=white" height="28" style="vertical-align:middle"/></a> &nbsp;&nbsp; <a href="https://www.linkedin.com/in/anurag-aditya-da57"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="28" style="vertical-align:middle"/></a>&nbsp;<a href="https://www.linkedin.com/in/anurag-aditya-da57"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logoColor=white" height="28" style="vertical-align:middle"/></a> |
 
 </div>
 
@@ -79,33 +82,16 @@ display(df_profile.head())
 
 ## 💼 What I Bring to the Team
 
-<div align="left">
-  <table>
-    <tr>
-      <td align="center" width="40%">
-        <img src="https://img.icons8.com/fluency/96/combo-chart.png" width="40" alt="Analytics"/><br>
-        <b>Actionable Analytics</b><br>
-        <sub>Building interactive <b>Power BI dashboards</b> that drive real business decisions.</sub>
-      </td>
-      <td align="center" width="40%">
-        <img src="https://img.icons8.com/fluency/96/process.png" width="40" alt="Automation"/><br>
-        <b>Automated Pipelines</b><br>
-        <sub>Replacing manual Excel with robust <b>Python/SQL workflows</b> to save hours.</sub>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="40%">
-        <img src="https://img.icons8.com/fluency/96/conference-call.png" width="40" alt="Translation"/><br>
-        <b>Stakeholder Translation</b><br>
-        <sub>Bridging the tech gap with clear, <b>non-technical data storytelling</b>.</sub>
-      </td>
-      <td align="center" width="40%">
-        <img src="https://img.icons8.com/fluency/96/trust.png" width="40" alt="Integrity"/><br>
-        <b>Data Integrity</b><br>
-        <sub>Ensuring <b>accuracy and reliability</b> at every step of the pipeline.</sub>
-      </td>
-    </tr>
-  </table>
+
+<div align="center">
+
+### 💼 What I Bring
+
+| 🏗️ Automated Pipelines | 📊 BI Dashboards | 🔎 Deep EDA | 🗣️ Data Storytelling |
+|:---:|:---:|:---:|:---:|
+| Python · SQL · Alteryx | Power BI · Tableau · DAX | Pandas · Seaborn · Plotly | Non-technical reporting |
+| ![](https://img.shields.io/badge/Hours_Saved-Automated-00c853?style=flat-square) | ![](https://img.shields.io/badge/KPI_Driven-Dashboards-0051B2?style=flat-square) | ![](https://img.shields.io/badge/Pattern-Discovery-7B2FBE?style=flat-square) | ![](https://img.shields.io/badge/Business-Ready-E97627?style=flat-square) |
+
 </div>
 
 ---
@@ -118,12 +104,12 @@ display(df_profile.head())
 
 | Layer | Tools |
 |-------|-------|
-| **📊 BI & Visualization** | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white) |
-| **🐍 Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) ![VBA](https://img.shields.io/badge/VBA-107C41?style=flat-square&logo=microsoftexcel&logoColor=white) |
-| **📦 Python Libraries** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square) ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square) ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white) |
-| **🗄️ Databases & Query** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![DAX](https://img.shields.io/badge/DAX-0078D4?style=flat-square) ![Power Query](https://img.shields.io/badge/Power_Query-F2C811?style=flat-square) |
-| **🔧 ETL & Workflow** | ![Alteryx](https://img.shields.io/badge/Alteryx-0051B2?style=flat-square) ![KNIME](https://img.shields.io/badge/KNIME-F8D200?style=flat-square&logoColor=black) |
-| **☁️ Cloud & DevOps** | ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
+| **📊 BI & Visualization** | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white) ![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=googledatastudio&logoColor=white) |
+| **🐍 Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![VBA](https://img.shields.io/badge/VBA-107C41?style=flat-square&logo=microsoftexcel&logoColor=white) |
+| **📦 Python Libraries** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square) ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white) ![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) |
+| **🗄️ Databases & Query** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![DAX](https://img.shields.io/badge/DAX-0078D4?style=flat-square) ![Power Query](https://img.shields.io/badge/Power_Query-F2C811?style=flat-square) |
+| **🔧 ETL & Workflow** | ![Alteryx](https://img.shields.io/badge/Alteryx-0051B2?style=flat-square) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white) |
+| **☁️ Cloud & DevOps** | ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) |
 
 </div>
 
@@ -132,73 +118,87 @@ display(df_profile.head())
 ## 🏅 Certifications
 
 <div align="left">
+
+---
+
+### 🥇 Industry-Recognized Credentials
 <table>
-
-<tr>
-  <td align="center">
-    <img src="https://cdn.simpleicons.org/datacamp" width="45"/><br/>
-    <b>DataCamp</b><br/><sub>AI Fundamentals</sub>
-  </td>
-
-  <td align="center">
-    <img src="https://github.com/Acelake123/Acelake123/blob/00b257a0b93a62954612ed07e5fccbede6b99eb9/Simplilearn_logo.jpeg" width="45"/><br/>
-    <b>Simplilearn</b><br/><sub>BA Excel</sub>
-  </td>
-
-  <td align="center">
-    <img src="https://github.com/Acelake123/Acelake123/blob/00b257a0b93a62954612ed07e5fccbede6b99eb9/Simplilearn_logo.jpeg" width="45"/><br/>
-    <b>Simplilearn</b><br/><sub>Data Analyst 101</sub>
-  </td>
-
-  <td align="center">
-    <img src="https://cdn.simpleicons.org/datacamp" width="45"/><br/>
-    <b>DataCamp</b><br/><sub>Data Analyst Associate</sub>
-  </td>
-
-  <td align="center">
-    <img src="https://cdn.simpleicons.org/udemy" width="45"/><br/>
-    <b>Udemy</b><br/><sub>PostgreSQL</sub>
-  </td>
-
-  <td align="center">
-    <img src="https://github.com/Acelake123/Acelake123/blob/00b257a0b93a62954612ed07e5fccbede6b99eb9/Simplilearn_logo.jpeg" width="45"/><br/>
-    <b>Simplilearn</b><br/><sub>Python for Data Analysis</sub>
-  </td>
-</tr>
-
 <tr>
   <td align="center">
     <img src="https://images.credly.com/size/340x340/images/14744318-8d6a-49c3-971d-6a4a0f524925/Alteryx_Core.png" width="65"/><br/>
     <b>Alteryx</b><br/><sub>Designer Core</sub>
   </td>
-
   <td align="center">
-    <img src="https://github.com/Acelake123/Acelake123/blob/00b257a0b93a62954612ed07e5fccbede6b99eb9/nasscom.jpeg" width="45"/><br/>
-    <b>NASSCOM</b><br/><sub>Security Analyst</sub>
+    <img src="https://cdn.simpleicons.org/datacamp" width="45"/><br/>
+    <b>DataCamp</b><br/><sub>Data Analyst Associate</sub>
   </td>
-
   <td align="center">
-    <img src="https://github.com/Acelake123/Acelake123/blob/00b257a0b93a62954612ed07e5fccbede6b99eb9/Simplilearn_logo.jpeg" width="45"/><br/>
-    <b>Simplilearn</b><br/><sub>SQL Certificate</sub>
+    <img src="https://cdn.simpleicons.org/datacamp" width="45"/><br/>
+    <b>DataCamp</b><br/><sub>AI Fundamentals</sub>
   </td>
+</tr>
+</table>
 
+---
+
+### 📊 Data Analytics & Visualization
+<table>
+<tr>
   <td align="center">
     <img src="https://github.com/Acelake123/Acelake123/blob/00b257a0b93a62954612ed07e5fccbede6b99eb9/Simplilearn_logo.jpeg" width="45"/><br/>
     <b>Simplilearn</b><br/><sub>Tableau</sub>
   </td>
-
   <td align="center">
-    <img src="https://cdn.simpleicons.org/tcs" width="45"/><br/>
-    <b>TCSiON</b><br/><sub>Young Professional</sub>
+    <img src="https://github.com/Acelake123/Acelake123/blob/00b257a0b93a62954612ed07e5fccbede6b99eb9/Simplilearn_logo.jpeg" width="45"/><br/>
+    <b>Simplilearn</b><br/><sub>Data Analyst 101</sub>
   </td>
+  <td align="center">
+    <img src="https://github.com/Acelake123/Acelake123/blob/00b257a0b93a62954612ed07e5fccbede6b99eb9/Simplilearn_logo.jpeg" width="45"/><br/>
+    <b>Simplilearn</b><br/><sub>BA Excel</sub>
+  </td>
+</tr>
+</table>
 
+---
+
+### 🐍 Programming & Databases
+<table>
+<tr>
+  <td align="center">
+    <img src="https://github.com/Acelake123/Acelake123/blob/00b257a0b93a62954612ed07e5fccbede6b99eb9/Simplilearn_logo.jpeg" width="45"/><br/>
+    <b>Simplilearn</b><br/><sub>Python for Data Analysis</sub>
+  </td>
+  <td align="center">
+    <img src="https://github.com/Acelake123/Acelake123/blob/00b257a0b93a62954612ed07e5fccbede6b99eb9/Simplilearn_logo.jpeg" width="45"/><br/>
+    <b>Simplilearn</b><br/><sub>SQL Certificate</sub>
+  </td>
+  <td align="center">
+    <img src="https://cdn.simpleicons.org/udemy" width="45"/><br/>
+    <b>Udemy</b><br/><sub>PostgreSQL</sub>
+  </td>
   <td align="center">
     <img src="https://github.com/Acelake123/Acelake123/blob/00b257a0b93a62954612ed07e5fccbede6b99eb9/Simplilearn_logo.jpeg" width="45"/><br/>
     <b>Simplilearn</b><br/><sub>VBA</sub>
   </td>
 </tr>
-
 </table>
+
+---
+
+### 🌐 Professional Development
+<table>
+<tr>
+  <td align="center">
+    <img src="https://cdn.simpleicons.org/tcs" width="45"/><br/>
+    <b>TCSiON</b><br/><sub>Young Professional</sub>
+  </td>
+  <td align="center">
+    <img src="https://github.com/Acelake123/Acelake123/blob/00b257a0b93a62954612ed07e5fccbede6b99eb9/nasscom.jpeg" width="45"/><br/>
+    <b>NASSCOM</b><br/><sub>Security Analyst</sub>
+  </td>
+</tr>
+</table>
+
 </div>
 
 ---
