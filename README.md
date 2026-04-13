@@ -97,7 +97,7 @@ display(df_profile.head())
 
 ### 🔄 Data Workflow Pipeline
 
-<img src="" alt="Data Workflow Pipeline" width="100%">
+<img src="https://github.com/Acelake123/Acelake123/blob/0ee68b81dc3c461b0eca0a6f467eada5b3b47a57/data-workflow.png" alt="Data Workflow Pipeline" width="100%">
 
 ---
 
