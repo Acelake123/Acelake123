@@ -286,7 +286,7 @@ display(df_profile.head())
 
 <img src="./assets/mantra.svg" width="100%" alt="Mantra Banner"/>
 
-<br/>
+<br/><br/>
 
 <img src="./assets/pipeline.svg" width="660" alt="Data to Impact Pipeline"/>
 
@@ -294,7 +294,7 @@ display(df_profile.head())
 
 **Let's connect** — I'm actively looking for **Data Analyst** & **BI Developer** opportunities.
 
-</div>
+<br/>
 
 <a href="#top">
   <img src="https://img.shields.io/badge/↑_Back_to_Top-0f172a?style=for-the-badge" alt="Back to Top"/>
