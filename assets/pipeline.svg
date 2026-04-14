@@ -1,0 +1,33 @@
+<svg width="640" height="48" viewBox="0 0 640 48" xmlns="http://www.w3.org/2000/svg">
+
+  <rect width="640" height="48" rx="24" fill="#06111f"/>
+
+  <!-- Node: Data -->
+  <rect x="15" y="9" width="95" height="30" rx="15" fill="#0c1e35" stroke="#1a3d5c" stroke-width="0.7"/>
+  <text x="62" y="29" text-anchor="middle" font-family="'Courier New', monospace" font-size="12.5" fill="#7dd3f0" letter-spacing="0.8">Data</text>
+
+  <!-- Arrow 1 -->
+  <line x1="116" y1="24" x2="153" y2="24" stroke="#3de8cc" stroke-width="0.9" opacity="0.4"/>
+  <polygon points="153,20 162,24 153,28" fill="#3de8cc" opacity="0.4"/>
+
+  <!-- Node: Insights -->
+  <rect x="163" y="9" width="105" height="30" rx="15" fill="#0c1e35" stroke="#1a3d5c" stroke-width="0.7"/>
+  <text x="215" y="29" text-anchor="middle" font-family="'Courier New', monospace" font-size="12.5" fill="#7dd3f0" letter-spacing="0.8">Insights</text>
+
+  <!-- Arrow 2 -->
+  <line x1="274" y1="24" x2="311" y2="24" stroke="#3de8cc" stroke-width="0.9" opacity="0.4"/>
+  <polygon points="311,20 320,24 311,28" fill="#3de8cc" opacity="0.4"/>
+
+  <!-- Node: Decisions -->
+  <rect x="321" y="9" width="114" height="30" rx="15" fill="#0c1e35" stroke="#1a3d5c" stroke-width="0.7"/>
+  <text x="378" y="29" text-anchor="middle" font-family="'Courier New', monospace" font-size="12.5" fill="#7dd3f0" letter-spacing="0.8">Decisions</text>
+
+  <!-- Arrow 3 -->
+  <line x1="441" y1="24" x2="478" y2="24" stroke="#3de8cc" stroke-width="0.9" opacity="0.4"/>
+  <polygon points="478,20 487,24 478,28" fill="#3de8cc" opacity="0.4"/>
+
+  <!-- Node: Impact (accent) -->
+  <rect x="488" y="9" width="102" height="30" rx="15" fill="#082e3d" stroke="#1a4f5c" stroke-width="0.7"/>
+  <text x="539" y="29" text-anchor="middle" font-family="'Courier New', monospace" font-size="12.5" fill="#3de8cc" letter-spacing="0.8">Impact ✦</text>
+
+</svg>
