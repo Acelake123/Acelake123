@@ -284,18 +284,17 @@ display(df_profile.head())
 
 ### 💬 Mantra
 
-> *"Without data, you're just another person with an opinion."*
-> — **W. Edwards Deming**
+<img src="./assets/mantra.svg" width="100%" alt="Mantra Banner"/>
 
 <br/>
 
-![Data](https://img.shields.io/badge/Data_%E2%86%92_Insights_%E2%86%92_Decisions_%E2%86%92_Impact-0f172a?style=flat-square&logo=python&logoColor=00d4ff)
+<img src="./assets/pipeline.svg" width="660" alt="Data to Impact Pipeline"/>
 
-<br/>
+<br/><br/>
 
----
+**Let's connect** — I'm actively looking for **Data Analyst** & **BI Developer** opportunities.
 
-**Let's connect — I'm actively looking for Data Analyst & BI Developer opportunities.**
+</div>
 
 <a href="#top">
   <img src="https://img.shields.io/badge/↑_Back_to_Top-0f172a?style=for-the-badge" alt="Back to Top"/>
