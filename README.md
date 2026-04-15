@@ -44,7 +44,6 @@
 | 🛠️ **Core Skills** | Python • SQL • Power BI • Tableau • Alteryx • Excel |
 | 📍 **Location** | Remote • Hybrid • Open to Relocation |
 | 🎓 **Education** | B.Tech Information Technology — Final Year |
-| 🏆 **Achievements** | NEC 2025 Finalist (IIT Bombay) • SIH 2024 Finalist (IIT Bhubaneswar) |
 | ⚡ **Status** | **[Available Immediately]** |
 | 📫 **Connect** | <a href="mailto:adityaanurag424@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="28" style="vertical-align:middle"/></a>&nbsp;<a href="mailto:adityaanurag424@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logoColor=white" height="28" style="vertical-align:middle"/></a> &nbsp;&nbsp; <a href="https://www.linkedin.com/in/anurag-aditya-da57"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="28" style="vertical-align:middle"/></a>&nbsp;<a href="https://www.linkedin.com/in/anurag-aditya-da57"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logoColor=white" height="28" style="vertical-align:middle"/></a> |
 
@@ -58,8 +57,8 @@
 
 | | Competition | Venue | Highlight |
 |---|---|---|---|
-| 🥇 | **NEC 2025 — National Entrepreneurship Challenge** | IIT Bombay | Top Finalist |
-| 🥈 | **SIH 2024 — Smart India Hackathon** | IIT Bhubaneswar | Blockchain Crypto Tracing |
+| 🥇 | **NEC 2025 — National Entrepreneurship Challenge** | IIT Bombay | Top Finalist (Rank 5) |
+| 🥈 | **SIH 2024 — Smart India Hackathon** | IIT Bhubaneswar | Finalist (Blockchain Crypto Tracing) |
 
 </div>
 
