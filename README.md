@@ -27,26 +27,11 @@
 
 ---
 
+<div align="left">
+  
 ## `</> Who I Am`
 
-```python
-import pandas as pd
-
-# Load Analyst Profile
-anurag_data = {
-    "Name"        : "Anurag Aditya",
-    "Education"   : "B.Tech IT (Final Year)",
-    "Target_Role" : ["Data Analyst | Business Intelligence & Strategy"],
-    "Skills"      : ["EDA", "SQL", "Power BI", "Data Storytelling"],
-    "Milestones"  : ["🏆 NEC '25 (IIT Bombay)", "🏆 SIH '24 (IIT Bhubaneswar)"],
-    "Status"      : "🟢 Seeking Internships / Job",
-    "Mantra"      : "Data → Insights → Decisions → Impact"
-}
-
-# Convert to actionable insights
-df_profile = pd.DataFrame([anurag_data])
-display(df_profile.head())
-```
+<img src="./assets/who-i-am.svg" width="100%" alt="Who I Am — Anurag Aditya"/>
 
 ---
 
@@ -122,114 +107,8 @@ display(df_profile.head())
 
 ## 🏅 Certifications
 
-<div align="left">
+<img src="./assets/certifications.svg" width="100%" alt="Certifications and Credentials"/>
 
----
-
-### 🥇 Industry-Recognized Credentials
-<table>
-<tr>
-  <td align="center">
-    <img src="https://github.com/Acelake123/Acelake123/blob/26f78c0827a7de27dda94ef4fbe18ce6212db7f6/alteryx-designer-core-certification.png" width="65"/><br/>
-    <b>Alteryx</b><br/><sub>Designer Core</sub>
-  </td>
-  <td align="center">
-    <img src="https://cdn.simpleicons.org/datacamp" width="45"/><br/>
-    <b>DataCamp</b><br/><sub>Data Analyst Associate</sub>
-  </td>
-  <td align="center">
-    <img src="https://cdn.simpleicons.org/datacamp" width="45"/><br/>
-    <b>DataCamp</b><br/><sub>AI Fundamentals</sub>
-  </td>
-</tr>
-</table>
-
----
-
-### 📊 Data Analytics & Visualization
-<table>
-<tr>
-  <td align="center">
-    <img src="https://github.com/Acelake123/Acelake123/blob/00b257a0b93a62954612ed07e5fccbede6b99eb9/Simplilearn_logo.jpeg" width="45"/><br/>
-    <b>Simplilearn</b><br/><sub>Tableau</sub>
-  </td>
-  <td align="center">
-    <img src="https://github.com/Acelake123/Acelake123/blob/00b257a0b93a62954612ed07e5fccbede6b99eb9/Simplilearn_logo.jpeg" width="45"/><br/>
-    <b>Simplilearn</b><br/><sub>Data Analyst 101</sub>
-  </td>
-  <td align="center">
-    <img src="https://github.com/Acelake123/Acelake123/blob/00b257a0b93a62954612ed07e5fccbede6b99eb9/Simplilearn_logo.jpeg" width="45"/><br/>
-    <b>Simplilearn</b><br/><sub>BA Excel</sub>
-  </td>
-</tr>
-</table>
-
----
-
-### 🐍 Programming & Databases
-<table>
-<tr>
-  <td align="center">
-    <img src="https://github.com/Acelake123/Acelake123/blob/00b257a0b93a62954612ed07e5fccbede6b99eb9/Simplilearn_logo.jpeg" width="45"/><br/>
-    <b>Simplilearn</b><br/><sub>Python for Data Analysis</sub>
-  </td>
-  <td align="center">
-    <img src="https://github.com/Acelake123/Acelake123/blob/00b257a0b93a62954612ed07e5fccbede6b99eb9/Simplilearn_logo.jpeg" width="45"/><br/>
-    <b>Simplilearn</b><br/><sub>SQL Certificate</sub>
-  </td>
-  <td align="center">
-    <img src="https://cdn.simpleicons.org/udemy" width="45"/><br/>
-    <b>Udemy</b><br/><sub>PostgreSQL</sub>
-  </td>
-  <td align="center">
-    <img src="https://github.com/Acelake123/Acelake123/blob/00b257a0b93a62954612ed07e5fccbede6b99eb9/Simplilearn_logo.jpeg" width="45"/><br/>
-    <b>Simplilearn</b><br/><sub>VBA</sub>
-  </td>
-</tr>
-</table>
-
----
-
-### 🌐 Professional Development
-<table>
-<tr>
-  <td align="center">
-    <img src="https://cdn.simpleicons.org/tcs" width="45"/><br/>
-    <b>TCSiON</b><br/><sub>Young Professional</sub>
-  </td>
-  <td align="center">
-    <img src="https://github.com/Acelake123/Acelake123/blob/00b257a0b93a62954612ed07e5fccbede6b99eb9/nasscom.jpeg" width="45"/><br/>
-    <b>NASSCOM</b><br/><sub>Security Analyst</sub>
-  </td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 🧪 Job Simulations
-
-<div align="left">
-<table width="100%">
-
-<tr>
-
-<td align="center" width="50%">
-  <br>
-  <img src="https://www.google.com/s2/favicons?domain=deloitte.com&sz=128" width="45" style="border-radius: 5px;"/><br/><br/>
-  <b>Deloitte · Forage</b><br/><sub>Data Analytics Job Simulation</sub>
-</td>
-
-<td align="center" width="50%">
-  <br>
-  <img src="https://icons.duckduckgo.com/ip3/quantium.com.ico" width="45" style="border-radius: 5px;"/><br/><br/>
-  <b>Quantium · Forage</b><br/><sub>Data Analytics Job Simulation</sub>
-</td>
-
-</tr>
-
-</table>
 </div>
 
 ---
