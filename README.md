@@ -31,7 +31,7 @@
   
 ## `</> Who I Am`
 
-<img src="./assets/who-i-am.svg" width="100%" alt="Who I Am — Anurag Aditya"/>
+<img src="https://github.com/Acelake123/Acelake123/blob/23df9c91b849e5a3ebd3103a10ace6727454fd0e/assets/who-i-am.svg" width="100%" alt="Who I Am — Anurag Aditya"/>
 
 ---
 
@@ -107,7 +107,7 @@
 
 ## 🏅 Certifications
 
-<img src="./assets/certifications.svg" width="100%" alt="Certifications and Credentials"/>
+<img src="https://github.com/Acelake123/Acelake123/blob/23df9c91b849e5a3ebd3103a10ace6727454fd0e/assets/certifications.svg" width="100%" alt="Certifications and Credentials"/>
 
 </div>
 
