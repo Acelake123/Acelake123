@@ -1,0 +1,155 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 650" width="100%" height="100%">
+  <defs>
+    <radialGradient id="bgGrad" cx="50%" cy="50%" r="75%">
+      <stop offset="0%" stop-color="#1A1512" />
+      <stop offset="50%" stop-color="#110C0A" />
+      <stop offset="100%" stop-color="#050302" />
+    </radialGradient>
+
+    <linearGradient id="goldTarnished" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#B89947" />
+      <stop offset="40%" stop-color="#7A622A" />
+      <stop offset="60%" stop-color="#524018" />
+      <stop offset="100%" stop-color="#B89947" />
+    </linearGradient>
+
+    <linearGradient id="goldLight" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#E5D08F" />
+      <stop offset="50%" stop-color="#FFF8D6" />
+      <stop offset="100%" stop-color="#E5D08F" />
+    </linearGradient>
+
+    <linearGradient id="nodeBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2A221C" />
+      <stop offset="100%" stop-color="#0D0A08" />
+    </linearGradient>
+
+    <filter id="bloom" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <filter id="noise" x="0" y="0" width="100%" height="100%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.7" numOctaves="3" result="static" />
+      <feColorMatrix type="matrix" values="1 0 0 0 0  0 0.8 0 0 0  0 0.5 0 0 0  0 0 0 0.05 0" in="static" result="coloredNoise" />
+      <feBlend in="SourceGraphic" in2="coloredNoise" mode="multiply" />
+    </filter>
+
+    <filter id="dropShadow" x="-5%" y="-5%" width="110%" height="110%">
+      <feDropShadow dx="0" dy="6" stdDeviation="5" flood-color="#000" flood-opacity="0.9"/>
+    </filter>
+  </defs>
+
+  <style>
+    /* Typography */
+    .title { font-family: 'Cinzel', 'Palatino Linotype', 'Book Antiqua', serif; font-size: 26px; font-weight: 700; fill: url(#goldLight); letter-spacing: 3px; filter: url(#bloom); }
+    .intro { font-family: 'Georgia', serif; font-size: 15px; font-style: italic; fill: #B3A895; letter-spacing: 0.5px; text-anchor: middle; line-height: 1.5; }
+    .skill-title { font-family: 'Cinzel', 'Palatino Linotype', 'Book Antiqua', serif; font-size: 18px; font-weight: bold; fill: #E8E3D2; letter-spacing: 1px; }
+    .skill-desc { font-family: 'Georgia', serif; font-size: 14.5px; fill: #9E9383; line-height: 1.6; }
+    .highlight { fill: #D4AF37; font-weight: bold; }
+    .italic { font-style: italic; }
+    
+    /* Interactive Hover */
+    .skill-card { transition: transform 0.4s ease; }
+    .skill-card:hover { transform: translateX(8px); }
+    .card-border { transition: stroke 0.4s ease, fill 0.4s ease; }
+    .skill-card:hover .card-border { stroke: url(#goldLight); fill: rgba(30, 24, 20, 0.85); }
+    .icon-path { transition: filter 0.4s ease, stroke-width 0.4s ease; }
+    .skill-card:hover .icon-path { filter: url(#bloom); stroke-width: 2px; }
+  </style>
+
+  <rect width="100%" height="100%" fill="url(#bgGrad)" filter="url(#noise)" />
+  
+  <rect x="15" y="15" width="820" height="620" fill="none" stroke="url(#goldTarnished)" stroke-width="2" opacity="0.7"/>
+  <rect x="22" y="22" width="806" height="606" fill="none" stroke="url(#goldTarnished)" stroke-width="0.5" opacity="0.4"/>
+
+  <g stroke="url(#goldTarnished)" fill="none" stroke-width="2">
+    <path d="M 15 60 L 15 15 L 60 15" />
+    <path d="M 22 45 L 22 22 L 45 22" stroke-width="1"/>
+    <circle cx="28" cy="28" r="3" fill="url(#goldTarnished)"/>
+    <path d="M 835 60 L 835 15 L 790 15" />
+    <path d="M 828 45 L 828 22 L 805 22" stroke-width="1"/>
+    <circle cx="822" cy="28" r="3" fill="url(#goldTarnished)"/>
+    <path d="M 15 590 L 15 635 L 60 635" />
+    <path d="M 22 605 L 22 628 L 45 628" stroke-width="1"/>
+    <circle cx="28" cy="622" r="3" fill="url(#goldTarnished)"/>
+    <path d="M 835 590 L 835 635 L 790 635" />
+    <path d="M 828 605 L 828 628 L 805 628" stroke-width="1"/>
+    <circle cx="822" cy="622" r="3" fill="url(#goldTarnished)"/>
+  </g>
+
+  <g transform="translate(425, 70)" text-anchor="middle">
+    <text class="title" x="0" y="0">Beyond the Numbers</text>
+    
+    <g transform="translate(0, 20)">
+      <path d="M -220 0 Q -110 -10 0 0 Q 110 -10 220 0" fill="none" stroke="url(#goldTarnished)" stroke-width="1.5" opacity="0.8"/>
+      <polygon points="0,-6 10,0 0,6 -10,0" fill="url(#goldLight)" filter="url(#bloom)"/>
+      <circle cx="-220" cy="0" r="2" fill="url(#goldTarnished)"/>
+      <circle cx="220" cy="0" r="2" fill="url(#goldTarnished)"/>
+    </g>
+    
+    <text class="intro" x="0" y="55">Being a data analyst isn't just about writing code;</text>
+    <text class="intro" x="0" y="77">it's about making data make sense for the business. Here is what I bring to a team:</text>
+  </g>
+
+  <g class="skill-card" transform="translate(50, 200)">
+    <path d="M 20 0 L 730 0 L 750 20 L 750 100 L 730 120 L 20 120 L 0 100 L 0 20 Z" fill="rgba(15, 11, 8, 0.6)" stroke="url(#goldTarnished)" stroke-width="1" class="card-border" filter="url(#dropShadow)"/>
+    
+    <g transform="translate(60, 60)">
+      <circle cx="0" cy="0" r="32" fill="url(#nodeBg)" stroke="url(#goldTarnished)" stroke-width="2" filter="url(#dropShadow)"/>
+      <circle cx="0" cy="0" r="26" fill="none" stroke="url(#goldTarnished)" stroke-width="0.5" stroke-dasharray="3 3"/>
+      <g class="icon-path" stroke="url(#goldLight)" fill="none" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M -12 -14 L 6 -14 C 9 -14 12 -11 12 -8 L 12 10 C 12 13 9 16 6 16 L -12 16 Z"/>
+        <path d="M -12 -14 L -12 16" />
+        <path d="M -12 -8 L -16 -8 C -18 -8 -18 -14 -12 -14" />
+        <path d="M -6 -4 L 6 -4 M -6 2 L 4 2 M -6 8 L 2 8" stroke-width="1"/>
+      </g>
+    </g>
+
+    <text x="120" y="45" class="skill-title">Data Storytelling</text>
+    <text x="120" y="75" class="skill-desc">I focus on translating complex datasets into clear, non-technical insights</text>
+    <text x="120" y="98" class="skill-desc">that stakeholders can actually use to <tspan class="highlight">make decisions</tspan>.</text>
+  </g>
+
+  <g class="skill-card" transform="translate(50, 340)">
+    <path d="M 20 0 L 730 0 L 750 20 L 750 100 L 730 120 L 20 120 L 0 100 L 0 20 Z" fill="rgba(15, 11, 8, 0.6)" stroke="url(#goldTarnished)" stroke-width="1" class="card-border" filter="url(#dropShadow)"/>
+    
+    <g transform="translate(60, 60)">
+      <circle cx="0" cy="0" r="32" fill="url(#nodeBg)" stroke="url(#goldTarnished)" stroke-width="2" filter="url(#dropShadow)"/>
+      <circle cx="0" cy="0" r="26" fill="none" stroke="url(#goldTarnished)" stroke-width="0.5" stroke-dasharray="3 3"/>
+      <g class="icon-path" stroke="url(#goldLight)" fill="none" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+        <circle cx="-4" cy="-4" r="8" />
+        <line x1="2" y1="2" x2="12" y2="12" stroke-width="2"/>
+        <path d="M 6 -10 A 10 10 0 0 1 10 -6" opacity="0.6"/>
+        <path d="M -10 6 A 10 10 0 0 1 -6 10" opacity="0.6"/>
+      </g>
+    </g>
+
+    <text x="120" y="45" class="skill-title">Curiosity &amp; Problem Solving</text>
+    <text x="120" y="75" class="skill-desc">I treat every dataset like a puzzle. I enjoy digging into anomalies, figuring out</text>
+    <text x="120" y="98" class="skill-desc"><tspan class="highlight italic">why</tspan> a metric changed, and finding the root cause.</text>
+  </g>
+
+  <g class="skill-card" transform="translate(50, 480)">
+    <path d="M 20 0 L 730 0 L 750 20 L 750 100 L 730 120 L 20 120 L 0 100 L 0 20 Z" fill="rgba(15, 11, 8, 0.6)" stroke="url(#goldTarnished)" stroke-width="1" class="card-border" filter="url(#dropShadow)"/>
+    
+    <g transform="translate(60, 60)">
+      <circle cx="0" cy="0" r="32" fill="url(#nodeBg)" stroke="url(#goldTarnished)" stroke-width="2" filter="url(#dropShadow)"/>
+      <circle cx="0" cy="0" r="26" fill="none" stroke="url(#goldTarnished)" stroke-width="0.5" stroke-dasharray="3 3"/>
+      <g class="icon-path" stroke="url(#goldLight)" fill="none" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+        <circle cx="0" cy="2" r="4"/>
+        <path d="M 0 -2 L 0 -12 M -3 -8 L 0 -12 L 3 -8"/>
+        <path d="M -12 2 A 12 12 0 0 1 -2 -10 L -2 -14 M 12 2 A 12 12 0 0 1 2 -10 L 2 -14" transform="rotate(45)" opacity="0.8"/>
+        <path d="M -12 2 A 12 12 0 0 0 -2 14 L -2 18 M 12 2 A 12 12 0 0 0 2 14 L 2 18" transform="rotate(45)" opacity="0.8"/>
+      </g>
+    </g>
+
+    <text x="120" y="45" class="skill-title">Adaptability</text>
+    <text x="120" y="75" class="skill-desc">As a fresher, I am highly trainable, eager for constructive feedback, and quick</text>
+    <text x="120" y="98" class="skill-desc">to pick up <tspan class="highlight">new tools, workflows, and industry knowledge</tspan>.</text>
+  </g>
+
+</svg>
