@@ -75,13 +75,13 @@
 
 </div>
 
----
-
 <div align="left">
 
-### 🔄 Data Workflow Pipeline
+### 🤝 Soft Skills
 
-<img src="https://github.com/Acelake123/Acelake123/blob/0ee68b81dc3c461b0eca0a6f467eada5b3b47a57/data-workflow.png" alt="Data Workflow Pipeline" width="100%">
+<br>
+
+<img src="https://github.com/Acelake123/Acelake123/blob/32a4a9ff1b2ea03462d268410d3eaa4ee958b504/assets/soft-skills.svg" alt="Soft Skills" width="100%">
 
 ---
 
@@ -112,39 +112,11 @@
 
 ---
 
-## 📊 Data Analyst Skills Showcase
+## 🧠 Data Philosophy
 
-<table align="left">
-  <tr>
-    <td align="center">
-      <img src="https://img.icons8.com/color/64/bar-chart.png" width="45" alt="Visualization"/>
-      <br><b>Data Visualization</b><br>Built interactive Power BI dashboards
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/64/line-chart.png" width="45" alt="EDA"/>
-      <br><b>Exploratory Analysis</b><br>Uncovered trends using Python
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/64/database.png" width="45" alt="Modeling"/>
-      <br><b>Data Modeling</b><br>Structured relational datasets
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.icons8.com/color/64/broom.png" width="45" alt="Cleaning"/>
-      <br><b>Data Cleaning</b><br>Handled nulls & outliers in Pandas
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/64/business-report.png" width="45" alt="BI"/>
-      <br><b>Business Intelligence</b><br>Delivered actionable insights
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/color/64/sql.png" width="45" alt="SQL"/>
-      <br><b>SQL Aggregation</b><br>Wrote complex queries & subqueries
-    </td>
-  </tr>
-</table>
-<br clear="all">
+<img src="https://github.com/Acelake123/Acelake123/blob/32a4a9ff1b2ea03462d268410d3eaa4ee958b504/assets/data-approach.png" width="100%" alt="Soft Skills"/>
+
+</div>
 
 ---
 
@@ -158,13 +130,17 @@
 
 ---
 
-<div align="center">
+<div align="left">
 
 ### 💬 Mantra
 
 <img src="./assets/mantra.svg" width="100%" alt="Mantra Banner"/>
 
 <br/><br/>
+
+</div>
+
+<div align="center">
 
 <img src="./assets/pipeline.svg" width="660" alt="Data to Impact Pipeline"/>
 
@@ -173,7 +149,7 @@
 **Let's connect** — I'm actively looking for **Data Analyst** & **BI Developer** opportunities.
 
 <br/>
-
+  
 <a href="#top">
   <img src="https://img.shields.io/badge/↑_Back_to_Top-0f172a?style=for-the-badge" alt="Back to Top"/>
 </a>
